@@ -1,0 +1,98 @@
+[
+    {
+        "image_id": "cropping-pattern_removed_p2_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p2_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 2,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p3_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p3_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 3,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p4_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p4_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 4,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p4_img_2",
+        "image_path": "extracted_images/cropping-pattern_removed_p4_img_2.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 4,
+        "index": 2,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p6_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p6_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 6,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p7_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p7_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 7,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p10_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p10_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 10,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p11_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p11_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 11,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p12_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p12_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 12,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p14_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p14_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 14,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p16_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p16_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 16,
+        "index": 1,
+        "summary": null
+    },
+    {
+        "image_id": "cropping-pattern_removed_p19_img_1",
+        "image_path": "extracted_images/cropping-pattern_removed_p19_img_1.png",
+        "source_pdf": "cropping-pattern_removed.pdf",
+        "page": 19,
+        "index": 1,
+        "summary": null
+    }
+]

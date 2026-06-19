@@ -1,0 +1,926 @@
+{
+  "document": {
+    "file_name": "A_Brief_Introduction_To_AI.pdf",
+    "file_path": "/Users/tusharc/Code/Python/RAG/RAG-Model/pdfs/A_Brief_Introduction_To_AI.pdf",
+    "page_count": 9,
+    "is_encrypted": false,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "A Brief Introduction to Artificial Intelligence",
+      "author": "",
+      "subject": "Article about artificial intelligence (AI) written by Ryerson Computer Science student, Dibbyo Saha, for Science Rendezvous.",
+      "keywords": "",
+      "creator": "",
+      "producer": "Skia/PDF m92 Google Docs Renderer",
+      "creationDate": "D:20210505130455+01'00'",
+      "modDate": "D:20210505130455+01'00'",
+      "trapped": "",
+      "encryption": null
+    }
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "A Brief Introduction to Artificial Intelligence\nWhat is AI and how is it going to shape the future\nBy Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University\nWhat is Artificial Intelligence?\nImage by Gerd Altmann from Pixabay\nGenerally speaking, Artificial Intelligence is a computing concept that helps a\nmachine think and solve complex problems as we humans do with our intelligence.\nFor example, we perform a task, make mistakes and learn from our mistakes (At\nleast the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed\nto work on a problem, make some mistakes in solving the problem and learn from\nthe problems in a self-correcting manner as a part of its self-improvement. Or in\nother words, think of this like playing a game of chess. Every bad move you make\nreduces your chances of winning the game. So, every time you lose against your\nfriend, you try remembering the moves you made which you shouldn’t have and\napply that knowledge in your next game and so on. Eventually, you get better and\nyour precision, or in this case probability of winning or solving a problem\n",
+      "images": [
+        {
+          "xref": 74,
+          "width": 1920,
+          "height": 1357,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 300190
+        }
+      ],
+      "links": [
+        {
+          "kind": 2,
+          "xref": 41,
+          "from": {
+            "x0": 107.2353515625,
+            "y0": 505.45263671875,
+            "x1": 158.4140625,
+            "y1": 516.43896484375
+          },
+          "uri": "https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=507811",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 42,
+          "from": {
+            "x0": 180.158203125,
+            "y0": 505.45263671875,
+            "x1": 207.86572265625,
+            "y1": 516.43896484375
+          },
+          "uri": "https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=507811",
+          "id": ""
+        }
+      ],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "header",
+          "text": "A Brief Introduction to Artificial Intelligence",
+          "bbox": [
+            84.94725799560547,
+            72.97705078125,
+            524.5215454101562,
+            98.44775390625
+          ],
+          "page_number": 1,
+          "sequence_id": 0
+        },
+        {
+          "type": "paragraph",
+          "text": "What is AI and how is it going to shape the future By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University",
+          "bbox": [
+            85.76678466796875,
+            99.04248046875,
+            540.0037841796875,
+            130.64501953125
+          ],
+          "page_number": 1,
+          "sequence_id": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "What is Artificial Intelligence?",
+          "bbox": [
+            72.0,
+            152.02294921875,
+            281.25543212890625,
+            169.74169921875
+          ],
+          "page_number": 1,
+          "sequence_id": 2
+        },
+        {
+          "type": "image",
+          "xref": 5,
+          "bbox": [
+            73.5,
+            171.24169921875,
+            541.5,
+            501.99169921875
+          ],
+          "page_number": 1,
+          "sequence_id": 3,
+          "after_sequence_id": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Image by Gerd Altmann from Pixabay",
+          "bbox": [
+            72.0,
+            507.43896484375,
+            207.86898803710938,
+            516.43896484375
+          ],
+          "page_number": 1,
+          "sequence_id": 4
+        },
+        {
+          "type": "paragraph",
+          "text": "Generally speaking, Artificial Intelligence is a computing concept that helps a machine think and solve complex problems as we humans do with our intelligence. For example, we perform a task, make mistakes and learn from our mistakes (At least the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed to work on a problem, make some mistakes in solving the problem and learn from the problems in a self-correcting manner as a part of its self-improvement. Or in other words, think of this like playing a game of chess. Every bad move you make reduces your chances of winning the game. So, every time you lose against your friend, you try remembering the moves you made which you shouldn’t have and apply that knowledge in your next game and so on. Eventually, you get better and your precision, or in this case probability of winning or solving a problem",
+          "bbox": [
+            72.0,
+            525.0830078125,
+            539.9701538085938,
+            701.5732421875
+          ],
+          "page_number": 1,
+          "sequence_id": 5
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "improves by a noteworthy extent. AI is programmed to do something similar to\nthat!\nArtificial Intelligence vs Traditional Robotics\nPhoto by Possessed Photography on Unsplash\nWhen we hear the word “Robot”, an image of a metal box with creepy eyes and\nspeaking in a mechanical voice pops into our head. I mean that’s what we have\nbeen watching in television for years, isn’t it? And to a certain degree we are right.\nTraditional robotics has been perceived by pop culture as an arena that creates\nhumanlike machines to work for us as saviours and sometimes as super-villains\nbringing in a cascade of tyranny into the human world. However, real life robots\naren’t as humanlike as we want them to be, yet. They are programmed in a specific\nway to only execute tasks that it has been programmed to perform.\nImagine a self-driving car that has been designed to drive you on its own according\nto where you instruct it to take you. Now for a traditional robot, the car is going to\ngo through the exact road that it was programmed to select for a certain destination\nby its creators, possibly without the knowledge of traffic and cause accidents.\nHowever, a human driver would have chosen the shortest path or check which\npaths have the least traffic today and would be the most convenient path for that\nparticular destination. That is the exact humanlike creative thinking the traditional\nrobots lack! They are fixed in their own “not so smart” way and are largely\ndependent on the program they are built on and the instructions that they are being\ngiven. If a certain instruction doesn’t coincide with their program, the robot won’t\neven be able to run, let alone going the extra step of being creative. This is the\nlimitation of traditional robots Artificial Intelligence is being developed to\novercome. Unlike the conventional “bips and bops”, a good AI will simulate the\n",
+      "images": [
+        {
+          "xref": 3,
+          "width": 757,
+          "height": 589,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 37148
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "improves by a noteworthy extent. AI is programmed to do something similar to that! Artificial Intelligence vs Traditional Robotics",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.4306640625,
+            122.595703125
+          ],
+          "page_number": 2,
+          "sequence_id": 6
+        },
+        {
+          "type": "image",
+          "xref": 4,
+          "bbox": [
+            73.5,
+            142.494140625,
+            321.0,
+            335.244140625
+          ],
+          "page_number": 2,
+          "sequence_id": 7,
+          "after_sequence_id": 6
+        },
+        {
+          "type": "paragraph",
+          "text": "Photo by Possessed Photography on Unsplash",
+          "bbox": [
+            72.0,
+            340.69140625,
+            239.2025909423828,
+            349.69140625
+          ],
+          "page_number": 2,
+          "sequence_id": 8
+        },
+        {
+          "type": "paragraph",
+          "text": "When we hear the word “Robot”, an image of a metal box with creepy eyes and speaking in a mechanical voice pops into our head. I mean that’s what we have been watching in television for years, isn’t it? And to a certain degree we are right. Traditional robotics has been perceived by pop culture as an arena that creates humanlike machines to work for us as saviours and sometimes as super-villains bringing in a cascade of tyranny into the human world. However, real life robots aren’t as humanlike as we want them to be, yet. They are programmed in a specific way to only execute tasks that it has been programmed to perform.",
+          "bbox": [
+            72.0,
+            366.384765625,
+            539.9124145507812,
+            494.5791015625
+          ],
+          "page_number": 2,
+          "sequence_id": 9
+        },
+        {
+          "type": "paragraph",
+          "text": "Imagine a self-driving car that has been designed to drive you on its own according to where you instruct it to take you. Now for a traditional robot, the car is going to go through the exact road that it was programmed to select for a certain destination by its creators, possibly without the knowledge of traffic and cause accidents. However, a human driver would have chosen the shortest path or check which paths have the least traffic today and would be the most convenient path for that particular destination. That is the exact humanlike creative thinking the traditional robots lack! They are fixed in their own “not so smart” way and are largely dependent on the program they are built on and the instructions that they are being given. If a certain instruction doesn’t coincide with their program, the robot won’t even be able to run, let alone going the extra step of being creative. This is the limitation of traditional robots Artificial Intelligence is being developed to overcome. Unlike the conventional “bips and bops”, a good AI will simulate the",
+          "bbox": [
+            72.0,
+            511.2724609375,
+            539.9752807617188,
+            719.9599609375
+          ],
+          "page_number": 2,
+          "sequence_id": 10
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "complicated and intuitive sense of thinking and problem-solving abilities of the\nhuman mind.\nA Brief History of AI\nThe concept of Artificial Intelligence is not as modern as we think it is. This traces\nback to as early as 1950 when Alan Turing invented the Turing test. Then the first\nchatbot computer program, ELIZA, was created in the 1960s. [1]IBM deep blue was\na chess computer made in 1977 beat a world chess champion in two out of six\ngames, one won by the champion and the other three games were draw. [2]\nIn 2011, Siri was announced as a digital assistant by Apple. [3]\nElon Musk and some others founded OpenAI in 2015.[4][5]\nArtificial Intelligence vs Machine Learning vs Deep Learning\nImage by Gerd Altmann from Pixabay \nUp until now in this article we were discussing about Artificial Intelligence as a\nprocess that is going to help machines achieve a humanlike mental behaviour. AI is\na vast and growing field which also includes a lot more subfields like machine\nlearning and deep learning and so on. Machine learning is in a nutshell the concept\nof computers learning to improve their predictions and creativity to resemble a\nhumanlike thinking process using algorithms. Machine learning involves a number\nof learning processes such as:\nSupervised learning: Supervised learning is a process where our machines\nare designed to learn with the feeding of labelled data. In this process our machine\n",
+      "images": [
+        {
+          "xref": 8,
+          "width": 1920,
+          "height": 640,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 410589
+        }
+      ],
+      "links": [
+        {
+          "kind": 2,
+          "xref": 5,
+          "from": {
+            "x0": 107.2353515625,
+            "y0": 518.4384765625,
+            "x1": 158.4140625,
+            "y1": 529.4248046875
+          },
+          "uri": "https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3706562",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 6,
+          "from": {
+            "x0": 180.158203125,
+            "y0": 518.4384765625,
+            "x1": 207.86572265625,
+            "y1": 529.4248046875
+          },
+          "uri": "https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3706562",
+          "id": ""
+        }
+      ],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "complicated and intuitive sense of thinking and problem-solving abilities of the human mind.",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.8013305664062,
+            104.197265625
+          ],
+          "page_number": 3,
+          "sequence_id": 11
+        },
+        {
+          "type": "paragraph",
+          "text": "A Brief History of AI",
+          "bbox": [
+            72.0,
+            120.9755859375,
+            215.057373046875,
+            138.6943359375
+          ],
+          "page_number": 3,
+          "sequence_id": 12
+        },
+        {
+          "type": "paragraph",
+          "text": "The concept of Artificial Intelligence is not as modern as we think it is. This traces back to as early as 1950 when Alan Turing invented the Turing test. Then the first chatbot computer program, ELIZA, was created in the 1960s.   [1] IBM deep blue was a chess computer made in 1977 beat a world chess champion in two out of six games, one won by the champion and the other three games were draw.   [2]",
+          "bbox": [
+            72.0,
+            155.3876953125,
+            539.87841796875,
+            235.2861328125
+          ],
+          "page_number": 3,
+          "sequence_id": 13
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2011, Siri was announced as a digital assistant by Apple.   [3]",
+          "bbox": [
+            72.0,
+            235.5585479736328,
+            416.7860412597656,
+            251.384765625
+          ],
+          "page_number": 3,
+          "sequence_id": 14
+        },
+        {
+          "type": "paragraph",
+          "text": "Elon Musk and some others founded OpenAI in 2015. [4][5]",
+          "bbox": [
+            72.0,
+            251.65716552734375,
+            395.0804748535156,
+            267.4833984375
+          ],
+          "page_number": 3,
+          "sequence_id": 15
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence vs Machine Learning vs Deep Learning",
+          "bbox": [
+            72.0,
+            300.3603515625,
+            490.07977294921875,
+            318.0791015625
+          ],
+          "page_number": 3,
+          "sequence_id": 16
+        },
+        {
+          "type": "image",
+          "xref": 9,
+          "bbox": [
+            73.5,
+            337.9775390625,
+            543.75,
+            514.9775390625
+          ],
+          "page_number": 3,
+          "sequence_id": 17,
+          "after_sequence_id": 16
+        },
+        {
+          "type": "paragraph",
+          "text": "Image by Gerd Altmann from Pixabay",
+          "bbox": [
+            72.0,
+            520.4248046875,
+            209.89971923828125,
+            529.4248046875
+          ],
+          "page_number": 3,
+          "sequence_id": 18
+        },
+        {
+          "type": "paragraph",
+          "text": "Up until now in this article we were discussing about Artificial Intelligence as a process that is going to help machines achieve a humanlike mental behaviour. AI is a vast and growing field which also includes a lot more subfields like machine learning and deep learning and so on. Machine learning is in a nutshell the concept of computers learning to improve their predictions and creativity to resemble a humanlike thinking process using algorithms. Machine learning involves a number of learning processes such as:",
+          "bbox": [
+            72.0,
+            546.1181640625,
+            539.9766235351562,
+            658.2138671875
+          ],
+          "page_number": 3,
+          "sequence_id": 19
+        },
+        {
+          "type": "paragraph",
+          "text": "Supervised learning : Supervised learning is a process where our machines are designed to learn with the feeding of labelled data. In this process our machine",
+          "bbox": [
+            72.0,
+            674.9072265625,
+            539.9443969726562,
+            706.509765625
+          ],
+          "page_number": 3,
+          "sequence_id": 20
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "is being trained by giving it access to a huge amount of data and training the\nmachine to analyze it. For instance, the machine is given a number of images of\ndogs taken from many different angles with colour variations, breeds and many\nmore diversity. So that, the machine learns to analyze data from these diverse\nimages of dogs and the “insight” of machines keep increasing and soon the\nmachine can predict if it’s a dog from a whole different picture which was not even\na part of the labelled data set of dog images the machine was fed earlier.\nUnsupervised\nlearning:\nContrary\nto\nthe\nsupervised\nlearning,\nthe\nunsupervised learning algorithms comprises analyzing unlabelled data i.e., in this\ncase we are training the machine to analyze and learn from a series of data, the\nmeaning of which is not apparently comprehendible by the human eyes. The\nmachine looks for patterns and draws conclusions on its own from the patterns of\nthe data. Important thing to remember that the dataset used in this instance is not\nlabelled and the conclusions are drawn by the machines.\nReinforcement learning: Reinforcement learning is a feedback dependent\nmachine learning model. In this process the machine is given a data and made to\npredict what the data was. If the machine generates an inaccurate conclusion about\nthe input data, the machine is given feedback about its incorrectness. For example,\nif you give the machine an image of a basketball and it identifies the basketball as a\ntennis ball or something else, you give a negative feedback to the machine and\neventually the machine learns to identify an image of a basketball on its own when\nit comes across a completely different picture of a basketball.\n",
+      "images": [
+        {
+          "xref": 12,
+          "width": 960,
+          "height": 687,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 159456
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "is being trained by giving it access to a huge amount of data and training the machine to analyze it. For instance, the machine is given a number of images of dogs taken from many different angles with colour variations, breeds and many more diversity. So that, the machine learns to analyze data from these diverse images of dogs and the “insight” of machines keep increasing and soon the machine can predict if it’s a dog from a whole different picture which was not even a part of the labelled data set of dog images the machine was fed earlier.",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.9539184570312,
+            184.6904296875
+          ],
+          "page_number": 4,
+          "sequence_id": 21
+        },
+        {
+          "type": "paragraph",
+          "text": "Unsupervised learning : Contrary to the supervised learning, the unsupervised learning algorithms comprises analyzing unlabelled data i.e., in this case we are training the machine to analyze and learn from a series of data, the meaning of which is not apparently comprehendible by the human eyes. The machine looks for patterns and draws conclusions on its own from the patterns of the data. Important thing to remember that the dataset used in this instance is not labelled and the conclusions are drawn by the machines.",
+          "bbox": [
+            72.0,
+            201.3837890625,
+            539.9452514648438,
+            313.4794921875
+          ],
+          "page_number": 4,
+          "sequence_id": 22
+        },
+        {
+          "type": "paragraph",
+          "text": "Reinforcement learning : Reinforcement learning is a feedback dependent machine learning model. In this process the machine is given a data and made to predict what the data was. If the machine generates an inaccurate conclusion about the input data, the machine is given feedback about its incorrectness. For example, if you give the machine an image of a basketball and it identifies the basketball as a tennis ball or something else, you give a negative feedback to the machine and eventually the machine learns to identify an image of a basketball on its own when it comes across a completely different picture of a basketball.",
+          "bbox": [
+            72.0,
+            330.1728515625,
+            539.983154296875,
+            458.3671875
+          ],
+          "page_number": 4,
+          "sequence_id": 23
+        },
+        {
+          "type": "image",
+          "xref": 3,
+          "bbox": [
+            72.75,
+            474.1171875,
+            466.5,
+            755.3671875
+          ],
+          "page_number": 4,
+          "sequence_id": 24,
+          "after_sequence_id": 23
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "Source:http://datasciencecentral.com\nDeep Learning, on the other hand is the concept of computers simulating the\nprocess a human brain takes to analyze, think and learn. The deep learning process\ninvolves something called a neural network as a part of the thinking process for an\nAI. It takes an enormous amount of data to train deep learning and a considerably\npowerful computing device for such computation methods.\nAI at Work Today\nPhoto by Dan Seifert / The Verge\nThe most common examples of uses of Artificial Intelligence can be found today\nin smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact\nwith these devices to command them on a daily basis and these devices use the\ncommands as a part of their dataset to learn from. Another known example of\nArtificial Intelligence is the use of algorithms in Netflix. Netflix provides very\nmuch accurate and relevant suggestions of movies, tv series from our data which is\ncreated every time we stream or click on something in Netflix. As the dataset for\nthese systems grows, their accuracy and precision increase as well. Artificial\n",
+      "images": [
+        {
+          "xref": 15,
+          "width": 1200,
+          "height": 800,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 77078
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "Source:http://datasciencecentral.com",
+          "bbox": [
+            72.0,
+            73.986328125,
+            210.2064666748047,
+            82.986328125
+          ],
+          "page_number": 5,
+          "sequence_id": 25
+        },
+        {
+          "type": "paragraph",
+          "text": "Deep Learning, on the other hand is the concept of computers simulating the process a human brain takes to analyze, think and learn. The deep learning process involves something called a neural network as a part of the thinking process for an AI. It takes an enormous amount of data to train deep learning and a considerably powerful computing device for such computation methods.",
+          "bbox": [
+            72.0,
+            94.5673828125,
+            539.9835815429688,
+            174.4658203125
+          ],
+          "page_number": 5,
+          "sequence_id": 26
+        },
+        {
+          "type": "paragraph",
+          "text": "AI at Work Today",
+          "bbox": [
+            72.0,
+            209.642578125,
+            195.72103881835938,
+            227.361328125
+          ],
+          "page_number": 5,
+          "sequence_id": 27
+        },
+        {
+          "type": "image",
+          "xref": 5,
+          "bbox": [
+            73.5,
+            247.259765625,
+            541.5,
+            559.259765625
+          ],
+          "page_number": 5,
+          "sequence_id": 28,
+          "after_sequence_id": 27
+        },
+        {
+          "type": "paragraph",
+          "text": "Photo by Dan Seifert / The Verge",
+          "bbox": [
+            72.0,
+            563.841796875,
+            191.03424072265625,
+            572.841796875
+          ],
+          "page_number": 5,
+          "sequence_id": 29
+        },
+        {
+          "type": "paragraph",
+          "text": "The most common examples of uses of Artificial Intelligence can be found today in smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact with these devices to command them on a daily basis and these devices use the commands as a part of their dataset to learn from. Another known example of Artificial Intelligence is the use of algorithms in Netflix. Netflix provides very much accurate and relevant suggestions of movies, tv series from our data which is created every time we stream or click on something in Netflix. As the dataset for these systems grows, their accuracy and precision increase as well. Artificial",
+          "bbox": [
+            72.0,
+            589.53515625,
+            539.9387817382812,
+            717.7294921875
+          ],
+          "page_number": 5,
+          "sequence_id": 30
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "Intelligence is also viewed as a great tool for better cybersecurity. Many banks are\nusing AI as a means to identify unauthorized credit cards uses. From analyzing\ncomplex genetic data to perform the most delicate surgeries at the highest precision\nis also being worked on to integrate with AI. We all know about companies like\nTesla and Apple working to make flawless self-driving cars which is going to have\ngame changing impacts on the future of transportation.\nConcerns about AI\nOne of the most immediate concerns about Artificial Intelligence is the fear of\nlosing jobs. Artificial Intelligence enhancing automation is also causing huge job\nlosses around the world. According to a Forbes article, it is predicted that by 2025\nautomation will cause a loss of 85 million jobs. [6] Bigger fears regarding AI\nincludes the scenario whereas machines become smarter and smarter they going to\nend up being as opinionated and biased like some of the people training it.\nAutomatization of weapons is also a big reason people worry about the future of\nArtificial Intelligence. The idea that weapons can be used to search and target\nsomeone with pre-programmed instructions and the misuse of this by governments\nor mafias or rogue AI can be something very deadly and devastating. However,\nthere are many myths in disguise of concerns surrounding AI that spreads panic\nand misinformation. AI today is nowhere near to become a super-intelligent entity\nand turn into our overlords like in sci-fi movies. However, heavy regulations and\ncautions are being advised by Big Tech giants like Elon Musk while developing\nthis industry.\nArtificial Intelligence and The Future\nIt is said that AI is the greatest thing humankind has ever worked on. AI is being\nused in image and speech recognition and analysis which will be far better than\nhuman recognition of image and speech and its application stretches wide and far.\nThere are research and works being conducted using AI that is going to play a very\nimportant role in our future healthcare. AI is being worked on to cure Alzheimer’s\ndisease and someday even blindness. Someone with dyslexia is being helped to\nread better with the help of AI. Genetic data is being analyzed by bioinformatics;\ndata science integrated with AI for way better data analysis in healthcare that has\nnot been possible for us in the past. Fields like cancer research and other such\ndiseases are being impacted greatly by advanced applications of AI. AI can be a\n",
+      "images": [],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "Intelligence is also viewed as a great tool for better cybersecurity. Many banks are using AI as a means to identify unauthorized credit cards uses. From analyzing complex genetic data to perform the most delicate surgeries at the highest precision is also being worked on to integrate with AI. We all know about companies like Tesla and Apple working to make flawless self-driving cars which is going to have game changing impacts on the future of transportation.",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.8857421875,
+            168.591796875
+          ],
+          "page_number": 6,
+          "sequence_id": 31
+        },
+        {
+          "type": "paragraph",
+          "text": "Concerns about AI",
+          "bbox": [
+            72.0,
+            201.46875,
+            200.87356567382812,
+            219.1875
+          ],
+          "page_number": 6,
+          "sequence_id": 32
+        },
+        {
+          "type": "paragraph",
+          "text": "One of the most immediate concerns about Artificial Intelligence is the fear of losing jobs. Artificial Intelligence enhancing automation is also causing huge job losses around the world. According to a Forbes article, it is predicted that by 2025 automation will cause a loss of 85 million jobs.   [6]   Bigger fears regarding AI includes the scenario whereas machines become smarter and smarter they going to end up being as opinionated and biased like some of the people training it. Automatization of weapons is also a big reason people worry about the future of Artificial Intelligence. The idea that weapons can be used to search and target someone with pre-programmed instructions and the misuse of this by governments or mafias or rogue AI can be something very deadly and devastating. However, there are many myths in disguise of concerns surrounding AI that spreads panic and misinformation. AI today is nowhere near to become a super-intelligent entity and turn into our overlords like in sci-fi movies. However, heavy regulations and cautions are being advised by Big Tech giants like Elon Musk while developing this industry.",
+          "bbox": [
+            72.0,
+            235.880859375,
+            539.9647216796875,
+            476.765625
+          ],
+          "page_number": 6,
+          "sequence_id": 33
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence and The Future",
+          "bbox": [
+            72.0,
+            509.642578125,
+            328.2228088378906,
+            527.361328125
+          ],
+          "page_number": 6,
+          "sequence_id": 34
+        },
+        {
+          "type": "paragraph",
+          "text": "It is said that AI is the greatest thing humankind has ever worked on. AI is being used in image and speech recognition and analysis which will be far better than human recognition of image and speech and its application stretches wide and far. There are research and works being conducted using AI that is going to play a very important role in our future healthcare. AI is being worked on to cure Alzheimer’s disease and someday even blindness. Someone with dyslexia is being helped to read better with the help of AI. Genetic data is being analyzed by bioinformatics; data science integrated with AI for way better data analysis in healthcare that has not been possible for us in the past. Fields like cancer research and other such diseases are being impacted greatly by advanced applications of AI. AI can be a",
+          "bbox": [
+            72.0,
+            544.0546875,
+            539.8211059570312,
+            704.4462890625
+          ],
+          "page_number": 6,
+          "sequence_id": 35
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "great tool in the future of education. AI can be used to analyze data from an\nindividual’s personal and intellectual needs, capabilities, choices and limitations to\ndevelop customized curriculum, strategies and schedules that will be more well\nsuited, appealling and inclusive of most, if not all, children and adults. The uses of\nAI are also going to change the way we are going to commute in the future. In\naddition to self-driving cars, work is being done to manufacture “self-flying”\nplanes and drones that conveniently deliver your food faster and better. One of the\nbiggest concerns about AI is that jobs are being replaced due to automation.\nHowever, AI might be creating more jobs than it replaces. This will change the\nway humans work by creating new types of jobs.\nSource: https://hackernoon.com/artificial-intelligence-and-big-data-zys3258\nAI is still in a fairly preliminary (but rapidly growing) stage today and it requires\nmore and more training to develop. Trainers, engineers, system designers and\nsoftware developer jobs in machine learning, data science and many such related\nfields are being created in abundance. New business and investment opportunities\nare also on the rise due to endless AI applications in agriculture, education,\ntransportation,\nfinance,\nbiotechnology,\ncybersecurity,\ngaming\netc. As new\nbusinesses are being created so are new jobs. Many existing jobs are becoming\n",
+      "images": [
+        {
+          "xref": 20,
+          "width": 960,
+          "height": 640,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 119165
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "great tool in the future of education. AI can be used to analyze data from an individual’s personal and intellectual needs, capabilities, choices and limitations to develop customized curriculum, strategies and schedules that will be more well suited, appealling and inclusive of most, if not all, children and adults. The uses of AI are also going to change the way we are going to commute in the future. In addition to self-driving cars, work is being done to manufacture “self-flying” planes and drones that conveniently deliver your food faster and better. One of the biggest concerns about AI is that jobs are being replaced due to automation. However, AI might be creating more jobs than it replaces. This will change the way humans work by creating new types of jobs.",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.8951416015625,
+            232.986328125
+          ],
+          "page_number": 7,
+          "sequence_id": 36
+        },
+        {
+          "type": "image",
+          "xref": 3,
+          "bbox": [
+            72.0,
+            250.236328125,
+            540.0,
+            562.236328125
+          ],
+          "page_number": 7,
+          "sequence_id": 37,
+          "after_sequence_id": 36
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: https://hackernoon.com/artificial-intelligence-and-big-data-zys3258",
+          "bbox": [
+            72.0,
+            564.97265625,
+            349.44482421875,
+            573.97265625
+          ],
+          "page_number": 7,
+          "sequence_id": 38
+        },
+        {
+          "type": "paragraph",
+          "text": "AI is still in a fairly preliminary (but rapidly growing) stage today and it requires more and more training to develop. Trainers, engineers, system designers and software developer jobs in machine learning, data science and many such related fields are being created in abundance. New business and investment opportunities are also on the rise due to endless AI applications in agriculture, education, transportation, finance, biotechnology, cybersecurity, gaming etc. As new businesses are being created so are new jobs. Many existing jobs are becoming",
+          "bbox": [
+            72.0,
+            590.666015625,
+            539.9857177734375,
+            702.76171875
+          ],
+          "page_number": 7,
+          "sequence_id": 39
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "redefined and more specialised which is really important for the new world to\nprosper and advance.\nTowards Conclusion…\nThe growth of Artificial Intelligence in recent times has been exponential. We\ncannot even imagine how big and impactful AI is going to be in the near future and\nhow drastically it is going to change and upgrade the world we live in today. There\nare a lot more to learn about AI and its rapidly growing applications in our life. I\nbelieve it would be wise to adapt to this changing world and acquire skills related\nto Artificial Intelligence and technology. Just like AI learns and develops, we\nshould too - to make this world a better place.\n",
+      "images": [],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "redefined and more specialised which is really important for the new world to prosper and advance. Towards Conclusion…",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.4259643554688,
+            122.595703125
+          ],
+          "page_number": 8,
+          "sequence_id": 40
+        },
+        {
+          "type": "paragraph",
+          "text": "The growth of Artificial Intelligence in recent times has been exponential. We cannot even imagine how big and impactful AI is going to be in the near future and how drastically it is going to change and upgrade the world we live in today. There are a lot more to learn about AI and its rapidly growing applications in our life. I believe it would be wise to adapt to this changing world and acquire skills related to Artificial Intelligence and technology. Just like AI learns and develops, we should too - to make this world a better place.",
+          "bbox": [
+            72.0,
+            139.2890625,
+            539.8590698242188,
+            251.384765625
+          ],
+          "page_number": 8,
+          "sequence_id": 41
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": "References:\n[1]https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/\n[2]https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/\n[3]https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-\ndigital-assistants-predict-what-you-need-3671725.html\n[4]https://openai.com/blog/introducing-openai/\n[5]https://www.bbc.com/news/technology-35082344\n[6]https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-ro\nbots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52\n",
+      "images": [],
+      "links": [
+        {
+          "kind": 2,
+          "xref": 24,
+          "from": {
+            "x0": 83.1910171508789,
+            "y0": 124.8955078125,
+            "x1": 455.439208984375,
+            "y1": 143.2939453125
+          },
+          "uri": "https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 25,
+          "from": {
+            "x0": 81.78359985351562,
+            "y0": 159.392578125,
+            "x1": 443.0928955078125,
+            "y1": 175.4912109375
+          },
+          "uri": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 26,
+          "from": {
+            "x0": 81.78359985351562,
+            "y0": 191.58984375,
+            "x1": 533.9602661132812,
+            "y1": 207.6884765625
+          },
+          "uri": "https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-digital-assistants-predict-what-you-need-3671725.html",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 27,
+          "from": {
+            "x0": 72.0,
+            "y0": 207.6884765625,
+            "x1": 380.14239501953125,
+            "y1": 223.787109375
+          },
+          "uri": "https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-digital-assistants-predict-what-you-need-3671725.html",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 28,
+          "from": {
+            "x0": 81.78359985351562,
+            "y0": 239.8857421875,
+            "x1": 328.54620361328125,
+            "y1": 255.984375
+          },
+          "uri": "https://openai.com/blog/introducing-openai/",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 29,
+          "from": {
+            "x0": 81.78359985351562,
+            "y0": 272.0830078125,
+            "x1": 360.68402099609375,
+            "y1": 288.181640625
+          },
+          "uri": "https://www.bbc.com/news/technology-35082344",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 30,
+          "from": {
+            "x0": 81.78359985351562,
+            "y0": 304.2802734375,
+            "x1": 539.8133544921875,
+            "y1": 320.37890625
+          },
+          "uri": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
+          "id": ""
+        },
+        {
+          "kind": 2,
+          "xref": 31,
+          "from": {
+            "x0": 72.0,
+            "y0": 320.37890625,
+            "x1": 490.0137634277344,
+            "y1": 335.32763671875
+          },
+          "uri": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
+          "id": ""
+        }
+      ],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "References:",
+          "bbox": [
+            72.0,
+            88.7783203125,
+            151.63795471191406,
+            106.4970703125
+          ],
+          "page_number": 9,
+          "sequence_id": 42
+        },
+        {
+          "type": "paragraph",
+          "text": "[1] https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/",
+          "bbox": [
+            72.0,
+            125.20683288574219,
+            455.4436950683594,
+            142.861328125
+          ],
+          "page_number": 9,
+          "sequence_id": 43
+        },
+        {
+          "type": "paragraph",
+          "text": "[2] https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+          "bbox": [
+            72.0,
+            159.6649932861328,
+            443.0974426269531,
+            175.4912109375
+          ],
+          "page_number": 9,
+          "sequence_id": 44
+        },
+        {
+          "type": "paragraph",
+          "text": "[3] https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how- digital-assistants-predict-what-you-need-3671725.html",
+          "bbox": [
+            72.0,
+            191.8622589111328,
+            533.962646484375,
+            223.787109375
+          ],
+          "page_number": 9,
+          "sequence_id": 45
+        },
+        {
+          "type": "paragraph",
+          "text": "[4] https://openai.com/blog/introducing-openai/",
+          "bbox": [
+            72.0,
+            240.1581573486328,
+            328.55072021484375,
+            255.984375
+          ],
+          "page_number": 9,
+          "sequence_id": 46
+        },
+        {
+          "type": "paragraph",
+          "text": "[5] https://www.bbc.com/news/technology-35082344",
+          "bbox": [
+            72.0,
+            272.35540771484375,
+            360.68792724609375,
+            288.181640625
+          ],
+          "page_number": 9,
+          "sequence_id": 47
+        },
+        {
+          "type": "paragraph",
+          "text": "[6] https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-ro bots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
+          "bbox": [
+            72.0,
+            304.55267333984375,
+            539.8153076171875,
+            335.32763671875
+          ],
+          "page_number": 9,
+          "sequence_id": 48
+        }
+      ]
+    }
+  ]
+}

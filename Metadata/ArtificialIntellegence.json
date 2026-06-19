@@ -1,0 +1,2755 @@
+{
+  "document": {
+    "file_name": "ArtificialIntellegence.pdf",
+    "file_path": "/Users/tusharc/Code/Python/RAG/RAG-Model/pdfs/ArtificialIntellegence.pdf",
+    "page_count": 12,
+    "is_encrypted": false,
+    "metadata": {
+      "format": "PDF 1.7",
+      "title": "",
+      "author": "m alsedra",
+      "subject": "",
+      "keywords": "",
+      "creator": "Microsoft® Word 2016",
+      "producer": "Microsoft® Word 2016",
+      "creationDate": "D:20180302021135+03'00'",
+      "modDate": "D:20180302021135+03'00'",
+      "trapped": "",
+      "encryption": null
+    }
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \nRunning Head:  ARTIFICIAL INTELLIGENT   \n \n \n \n \n \n \n \n \n \n \n \n \nArtificial Intelligence \nAdvanced Analysis and Design: CNIT 380 \nInstructors:  Dr. Hiba Tabbarah & Mr. Abdullah Abdulghafar \nSemester: Fall 2017 \n                                                                Section: U1 \nMariam Khaled AlSedrah    24985 \n \n \n \n \n \n",
+      "images": [
+        {
+          "xref": 5,
+          "width": 1856,
+          "height": 245,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 33573
+        },
+        {
+          "xref": 12,
+          "width": 536,
+          "height": 120,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 10445
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "paragraph",
+          "text": "Running Head:  ARTIFICIAL INTELLIGENT",
+          "bbox": [
+            72.02400207519531,
+            36.46797180175781,
+            472.989990234375,
+            76.81999969482422
+          ],
+          "page_number": 1,
+          "sequence_id": 0
+        },
+        {
+          "type": "image",
+          "xref": 3,
+          "bbox": [
+            164.60000610351562,
+            213.17001342773438,
+            421.8999938964844,
+            270.77001953125
+          ],
+          "page_number": 1,
+          "sequence_id": 1,
+          "after_sequence_id": 0
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence",
+          "bbox": [
+            254.2100067138672,
+            340.47802734375,
+            360.9100036621094,
+            353.76202392578125
+          ],
+          "page_number": 1,
+          "sequence_id": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Advanced Analysis and Design: CNIT 380",
+          "bbox": [
+            201.13999938964844,
+            376.13800048828125,
+            413.8299865722656,
+            389.4219970703125
+          ],
+          "page_number": 1,
+          "sequence_id": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Instructors:  Dr. Hiba Tabbarah & Mr. Abdullah Abdulghafar",
+          "bbox": [
+            151.22000122070312,
+            411.77801513671875,
+            463.75,
+            425.06201171875
+          ],
+          "page_number": 1,
+          "sequence_id": 4
+        },
+        {
+          "type": "paragraph",
+          "text": "Semester: Fall 2017",
+          "bbox": [
+            256.3699951171875,
+            447.2980041503906,
+            358.75,
+            460.5820007324219
+          ],
+          "page_number": 1,
+          "sequence_id": 5
+        },
+        {
+          "type": "paragraph",
+          "text": "Section: U1",
+          "bbox": [
+            72.02400207519531,
+            482.9380187988281,
+            325.9700012207031,
+            496.2220153808594
+          ],
+          "page_number": 1,
+          "sequence_id": 6
+        },
+        {
+          "type": "paragraph",
+          "text": "Mariam Khaled AlSedrah    24985",
+          "bbox": [
+            223.00999450683594,
+            518.6079711914062,
+            391.989990234375,
+            531.8919677734375
+          ],
+          "page_number": 1,
+          "sequence_id": 7
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 2 \n \n \n \n \nTable of Contents \n \n1. Introduction ..........................................................................................................................3 \n2. History of A.I.  .....................................................................................................................3 \n3. Description of Artificial Intelligence ...................................................................................3 \n4. Pros and Cons of AI .............................................................................................................4 \n5. AI Algorithm and Models  ...................................................................................................5 \n6. Some Application on AI ......................................................................................................6  \n7. AI Design Models  ...............................................................................................................7 \n8. Conclusion ...........................................................................................................................9 \n9. References ..........................................................................................................................10 \n \n \n",
+      "images": [
+        {
+          "xref": 19,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 2,
+          "sequence_id": 8,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      2",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 2,
+          "sequence_id": 9
+        },
+        {
+          "type": "paragraph",
+          "text": "Table of Contents",
+          "bbox": [
+            260.3299865722656,
+            197.6480255126953,
+            354.6700134277344,
+            210.93202209472656
+          ],
+          "page_number": 2,
+          "sequence_id": 10
+        },
+        {
+          "type": "paragraph",
+          "text": "1.   Introduction ..........................................................................................................................3",
+          "bbox": [
+            90.02400207519531,
+            247.67002868652344,
+            543.0999755859375,
+            261.1220397949219
+          ],
+          "page_number": 2,
+          "sequence_id": 11
+        },
+        {
+          "type": "paragraph",
+          "text": "2.   History of A.I.  .....................................................................................................................3",
+          "bbox": [
+            90.02400207519531,
+            275.27001953125,
+            543.0999755859375,
+            288.7220153808594
+          ],
+          "page_number": 2,
+          "sequence_id": 12
+        },
+        {
+          "type": "paragraph",
+          "text": "3.   Description of Artificial Intelligence ...................................................................................3",
+          "bbox": [
+            90.02400207519531,
+            302.8700256347656,
+            543.0999755859375,
+            316.322021484375
+          ],
+          "page_number": 2,
+          "sequence_id": 13
+        },
+        {
+          "type": "paragraph",
+          "text": "4.   Pros and Cons of AI .............................................................................................................4",
+          "bbox": [
+            90.02400207519531,
+            330.4700012207031,
+            543.0999755859375,
+            343.9219970703125
+          ],
+          "page_number": 2,
+          "sequence_id": 14
+        },
+        {
+          "type": "paragraph",
+          "text": "5.   AI Algorithm and Models  ...................................................................................................5",
+          "bbox": [
+            90.02400207519531,
+            358.09002685546875,
+            543.0999755859375,
+            371.5420227050781
+          ],
+          "page_number": 2,
+          "sequence_id": 15
+        },
+        {
+          "type": "paragraph",
+          "text": "6.   Some Application on AI ......................................................................................................6",
+          "bbox": [
+            90.02400207519531,
+            385.69000244140625,
+            546.0999755859375,
+            399.1419982910156
+          ],
+          "page_number": 2,
+          "sequence_id": 16
+        },
+        {
+          "type": "paragraph",
+          "text": "7.   AI Design Models  ...............................................................................................................7",
+          "bbox": [
+            90.02400207519531,
+            413.2900085449219,
+            543.0999755859375,
+            426.74200439453125
+          ],
+          "page_number": 2,
+          "sequence_id": 17
+        },
+        {
+          "type": "paragraph",
+          "text": "8.   Conclusion ...........................................................................................................................9",
+          "bbox": [
+            90.02400207519531,
+            440.8900146484375,
+            543.0999755859375,
+            454.3420104980469
+          ],
+          "page_number": 2,
+          "sequence_id": 18
+        },
+        {
+          "type": "paragraph",
+          "text": "9.   References ..........................................................................................................................10",
+          "bbox": [
+            90.02400207519531,
+            468.4900207519531,
+            543.0999755859375,
+            481.9420166015625
+          ],
+          "page_number": 2,
+          "sequence_id": 19
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 3 \n \n \n \nArtificial Intelligence \nIntroduction \nI have chosen this topic to spotlight on one of the most technological trend these days \nknown as AI (Artificial Intelligent). Therefore; I will discuss some of the most important aspects \nrelated to AI in which it will help in a better understanding of Artificial Intelligent and both its \nadvantages and disadvantages to be able to protect ourselves from the upcoming technological \ntrend. This paper will also discuss some of the algorithms used in AI systems. \nHistory of Artificial Intelligence: \nArtificial Intelligence was first proposed by John McCarthy in 1956 in his first academic \nconference on the subject. The idea of machines operating like human beings began to be the \ncenter of scientist’s mind and whether if it is possible to make machines have the same ability to \nthink and learn by itself was introduced by the mathematician Alan Turing. Alan Turing was able \nto put his hypotheses and questions into actions by testing whether “machines can think”? After \nseries of testing (later was called as Turing Test) it turns out that it is possible to enable machines \nto think and learn just like humans. Turing Test uses the pragmatic approach to be able to \nidentify if machines can respond as humans. (“Smith”, (n.d.)). \nDescription Artificial Intelligence \nArtificial Intelligence is: the field of study that describe the capability of machine learning just \nlike humans and the ability to respond to certain behaviors also known as (A.I.). The need of \n",
+      "images": [
+        {
+          "xref": 24,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 3,
+          "sequence_id": 20,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      3",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 3,
+          "sequence_id": 21
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence",
+          "bbox": [
+            251.57000732421875,
+            158.04798889160156,
+            363.54998779296875,
+            171.3319854736328
+          ],
+          "page_number": 3,
+          "sequence_id": 22
+        },
+        {
+          "type": "paragraph",
+          "text": "Introduction",
+          "bbox": [
+            72.02400207519531,
+            193.68800354003906,
+            140.4199981689453,
+            206.9720001220703
+          ],
+          "page_number": 3,
+          "sequence_id": 23
+        },
+        {
+          "type": "paragraph",
+          "text": "I have chosen this topic to spotlight on one of the most technological trend these days",
+          "bbox": [
+            108.0199966430664,
+            229.3579864501953,
+            542.9300537109375,
+            242.64198303222656
+          ],
+          "page_number": 3,
+          "sequence_id": 24
+        },
+        {
+          "type": "paragraph",
+          "text": "known as AI  (Artificial Intelligent ). Therefore; I will discuss some of the most important aspects",
+          "bbox": [
+            72.02400207519531,
+            256.9580383300781,
+            542.8580932617188,
+            270.2420349121094
+          ],
+          "page_number": 3,
+          "sequence_id": 25
+        },
+        {
+          "type": "paragraph",
+          "text": "related to  AI  in which   it will help in a better understanding of Artificial Intelligent and both its",
+          "bbox": [
+            72.02400207519531,
+            284.5580139160156,
+            543.0220336914062,
+            297.8420104980469
+          ],
+          "page_number": 3,
+          "sequence_id": 26
+        },
+        {
+          "type": "paragraph",
+          "text": "advantages and disadvantages to be able to protect ourselves from the upcoming technological",
+          "bbox": [
+            72.02400207519531,
+            312.15802001953125,
+            542.8340454101562,
+            325.4420166015625
+          ],
+          "page_number": 3,
+          "sequence_id": 27
+        },
+        {
+          "type": "paragraph",
+          "text": "trend. This paper will also discuss some of the algorithms used in AI systems.",
+          "bbox": [
+            72.02400207519531,
+            339.7580261230469,
+            448.75,
+            353.0420227050781
+          ],
+          "page_number": 3,
+          "sequence_id": 28
+        },
+        {
+          "type": "paragraph",
+          "text": "History of Artificial Intelligence:",
+          "bbox": [
+            72.02400207519531,
+            375.2980041503906,
+            242.69000244140625,
+            388.5820007324219
+          ],
+          "page_number": 3,
+          "sequence_id": 29
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence was first proposed by John McCarthy in 1956 in his first academic",
+          "bbox": [
+            72.02400207519531,
+            410.9380187988281,
+            542.8820190429688,
+            424.2220153808594
+          ],
+          "page_number": 3,
+          "sequence_id": 30
+        },
+        {
+          "type": "paragraph",
+          "text": "conference on the subject. The idea of machines operating like human beings began to be the",
+          "bbox": [
+            72.02400207519531,
+            438.53802490234375,
+            542.8400268554688,
+            451.822021484375
+          ],
+          "page_number": 3,
+          "sequence_id": 31
+        },
+        {
+          "type": "paragraph",
+          "text": "center of scientist’s mind and whether if it is possible to make machines have the same ability to",
+          "bbox": [
+            72.02400207519531,
+            466.13800048828125,
+            542.7600708007812,
+            479.4219970703125
+          ],
+          "page_number": 3,
+          "sequence_id": 32
+        },
+        {
+          "type": "paragraph",
+          "text": "think and learn by itself was introduced by the mathematician Alan Turing. Alan Turing was able",
+          "bbox": [
+            72.02400207519531,
+            493.7380065917969,
+            543.02197265625,
+            507.0220031738281
+          ],
+          "page_number": 3,
+          "sequence_id": 33
+        },
+        {
+          "type": "paragraph",
+          "text": "to put his hypotheses and questions into actions by testing whether “ machines can think ”? After",
+          "bbox": [
+            72.02400207519531,
+            521.3679809570312,
+            543.075927734375,
+            534.6519775390625
+          ],
+          "page_number": 3,
+          "sequence_id": 34
+        },
+        {
+          "type": "paragraph",
+          "text": "series of testing (later was called as Turing Test) it turns out that it is possible to enable machines",
+          "bbox": [
+            72.02400207519531,
+            548.968017578125,
+            543.0460205078125,
+            562.2520141601562
+          ],
+          "page_number": 3,
+          "sequence_id": 35
+        },
+        {
+          "type": "paragraph",
+          "text": "to think and learn just like humans. Turing Test uses the pragmatic approach to be able to",
+          "bbox": [
+            72.02400207519531,
+            576.5679931640625,
+            542.9299926757812,
+            589.8519897460938
+          ],
+          "page_number": 3,
+          "sequence_id": 36
+        },
+        {
+          "type": "paragraph",
+          "text": "identify if machines can respond as humans. (“Smith”, (n.d.)).",
+          "bbox": [
+            72.02400207519531,
+            604.16796875,
+            373.3900146484375,
+            617.4519653320312
+          ],
+          "page_number": 3,
+          "sequence_id": 37
+        },
+        {
+          "type": "paragraph",
+          "text": "Description Artificial Intelligence",
+          "bbox": [
+            72.02400207519531,
+            639.7080078125,
+            246.2899932861328,
+            652.9920043945312
+          ],
+          "page_number": 3,
+          "sequence_id": 38
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence is: the field of study that describe the capability of machine learning just",
+          "bbox": [
+            72.02400207519531,
+            675.3479614257812,
+            542.833984375,
+            688.6319580078125
+          ],
+          "page_number": 3,
+          "sequence_id": 39
+        },
+        {
+          "type": "paragraph",
+          "text": "like humans and the ability to respond to certain behaviors also known as (A.I.). The need of",
+          "bbox": [
+            72.02400207519531,
+            702.947998046875,
+            542.7120361328125,
+            716.2319946289062
+          ],
+          "page_number": 3,
+          "sequence_id": 40
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 4 \n \n \nArtificial Intelligence is increasing every day. Since AI was first introduced to the market, it has \nbeen the reason of the quick change in technology and business fields. Computer scientist are \npredicting that by 2020, “85% of customer interactions will be managed without a human”. \n(“Gartner”, (n.d.)). This means that humans simple request will depend on computers and \nartificial intelligence just like when we use Siri or Galaxy to ask about the weather temperature. \nIt is very important to be prepared for AI revelation just like UAE have by installing a state \nminister for AI in Dubai.  \nPros and Cons of Artificial Intelligence \nAI offers reliability, cost- effectiveness, solve complicated problems, and make \ndecisions; in addition, AI restrict data from getting lost. AI is applied nowadays in most fields \nwhether business or engineering. One of the great tools in AI is called “reinforcement learning” \nwhich is based on testing success and failure in real life to increase the reliability of applications. \nUnfortunately, AI is limited with its capability and functionality. (“Sadek”,(n.d.)) \nAlthough Artificial Intelligence made our lives much easier and saved us more time than \never, scientists are predicting that by the huge dependency on AI humanity could extinct. \nScientists argue that by having a AI machines, people will be jobless and that will conclude in \nlosing the sense of living. Since machines are learning and doing thigs more efficiently and \neffectively in a timely manner, this could be the reason of our extinction.        \n \n \n",
+      "images": [
+        {
+          "xref": 34,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 4,
+          "sequence_id": 41,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      4",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 4,
+          "sequence_id": 42
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence is increasing every day. Since AI was first introduced to the market, it has",
+          "bbox": [
+            72.02400207519531,
+            108.72798156738281,
+            542.6881103515625,
+            135.8119659423828
+          ],
+          "page_number": 4,
+          "sequence_id": 43
+        },
+        {
+          "type": "paragraph",
+          "text": "been the reason of the quick change in technology and business fields. Computer scientist are",
+          "bbox": [
+            72.02400207519531,
+            150.1280059814453,
+            542.7601318359375,
+            163.41200256347656
+          ],
+          "page_number": 4,
+          "sequence_id": 44
+        },
+        {
+          "type": "paragraph",
+          "text": "predicting that by 2020,  “85% of customer interactions will be managed without a human”.",
+          "bbox": [
+            72.02400207519531,
+            177.7279815673828,
+            542.8280029296875,
+            191.01197814941406
+          ],
+          "page_number": 4,
+          "sequence_id": 45
+        },
+        {
+          "type": "paragraph",
+          "text": "(“Gartner”, (n.d.)). This means that humans simple request will depend on computers and",
+          "bbox": [
+            72.02400207519531,
+            205.32801818847656,
+            542.7560424804688,
+            218.6120147705078
+          ],
+          "page_number": 4,
+          "sequence_id": 46
+        },
+        {
+          "type": "paragraph",
+          "text": "artificial intelligence just like when we use Siri or Galaxy to ask about the weather temperature.",
+          "bbox": [
+            72.02400207519531,
+            232.95802307128906,
+            542.7361450195312,
+            246.2420196533203
+          ],
+          "page_number": 4,
+          "sequence_id": 47
+        },
+        {
+          "type": "paragraph",
+          "text": "It is very important to be prepared for AI revelation just like UAE have by installing a state",
+          "bbox": [
+            72.02400207519531,
+            260.5580139160156,
+            543.0761108398438,
+            273.8420104980469
+          ],
+          "page_number": 4,
+          "sequence_id": 48
+        },
+        {
+          "type": "paragraph",
+          "text": "minister for AI in Dubai.",
+          "bbox": [
+            72.02400207519531,
+            288.15802001953125,
+            197.66000366210938,
+            301.4420166015625
+          ],
+          "page_number": 4,
+          "sequence_id": 49
+        },
+        {
+          "type": "paragraph",
+          "text": "Pros and Cons of Artificial Intelligence",
+          "bbox": [
+            72.02400207519531,
+            323.6780090332031,
+            274.7300109863281,
+            336.9620056152344
+          ],
+          "page_number": 4,
+          "sequence_id": 50
+        },
+        {
+          "type": "paragraph",
+          "text": "AI offers reliability, cost- effectiveness, solve complicated problems, and make",
+          "bbox": [
+            108.0199966430664,
+            359.3380126953125,
+            543.0880126953125,
+            372.62200927734375
+          ],
+          "page_number": 4,
+          "sequence_id": 51
+        },
+        {
+          "type": "paragraph",
+          "text": "decisions; in addition, AI restrict data from getting lost. AI is applied nowadays in most fields",
+          "bbox": [
+            72.02400207519531,
+            386.9380187988281,
+            542.5919799804688,
+            400.2220153808594
+          ],
+          "page_number": 4,
+          "sequence_id": 52
+        },
+        {
+          "type": "paragraph",
+          "text": "whether business or engineering. One of the great tools in AI is called “reinforcement learning”",
+          "bbox": [
+            72.02400207519531,
+            414.53802490234375,
+            542.7741088867188,
+            427.822021484375
+          ],
+          "page_number": 4,
+          "sequence_id": 53
+        },
+        {
+          "type": "paragraph",
+          "text": "which is based on testing success and failure in real life to increase the reliability of applications.",
+          "bbox": [
+            72.02400207519531,
+            442.13800048828125,
+            542.882080078125,
+            455.4219970703125
+          ],
+          "page_number": 4,
+          "sequence_id": 54
+        },
+        {
+          "type": "paragraph",
+          "text": "Unfortunately, AI is limited with its capability and functionality. (“Sadek”,(n.d.))",
+          "bbox": [
+            72.02400207519531,
+            469.7380065917969,
+            465.6700134277344,
+            483.0220031738281
+          ],
+          "page_number": 4,
+          "sequence_id": 55
+        },
+        {
+          "type": "paragraph",
+          "text": "Although Artificial Intelligence made our lives much easier and saved us more time than",
+          "bbox": [
+            108.0199966430664,
+            505.2879943847656,
+            543.0099487304688,
+            518.5719604492188
+          ],
+          "page_number": 4,
+          "sequence_id": 56
+        },
+        {
+          "type": "paragraph",
+          "text": "ever, scientists are predicting that by the huge dependency on AI humanity could extinct.",
+          "bbox": [
+            72.02400207519531,
+            532.8880004882812,
+            543.0999755859375,
+            546.1719970703125
+          ],
+          "page_number": 4,
+          "sequence_id": 57
+        },
+        {
+          "type": "paragraph",
+          "text": "Scientists argue that by having a AI machines, people will be jobless and that will conclude in",
+          "bbox": [
+            72.02400207519531,
+            560.4879760742188,
+            542.9299926757812,
+            573.77197265625
+          ],
+          "page_number": 4,
+          "sequence_id": 58
+        },
+        {
+          "type": "paragraph",
+          "text": "losing the sense of living. Since machines are learning and doing thigs more efficiently and",
+          "bbox": [
+            72.02400207519531,
+            588.0880126953125,
+            543.0999755859375,
+            601.3720092773438
+          ],
+          "page_number": 4,
+          "sequence_id": 59
+        },
+        {
+          "type": "paragraph",
+          "text": "effectively in a timely manner, this could be the reason of our extinction.",
+          "bbox": [
+            72.02400207519531,
+            615.68798828125,
+            445.989990234375,
+            628.9719848632812
+          ],
+          "page_number": 4,
+          "sequence_id": 60
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 5 \n \n \nAI Algorithms and Models \nAI is mainly based on algorithms and models as a technique which is designed based on \nscientific findings such as math, statists, and biology (Li& Jiang, (n.d.)). AI works based on \nseveral models such as: Ant Colony Algorithm, Immune Algorithm, Fuzzy Algorithm, Decision \nTree, Genetic Algorithm, Particle Swarm Algorithm, Neural Network, Deep Learning and in this \nreport, I will discuss some of the most known models which are: Support Vector Machine, and \nthe Artificial Neural Network. \n• Support Vector Machine (SVM) where it is used to build a classification model by \nfinding an optimal hyperplane based on a set of training examples as shown in (figure \nA-1). It is also have been used for pattern classification and trend prediction lots of \napplications for instance: power transformer fault diagnosis, disease diagnosis and \ntreatment optimization. (Li& Jiang, (n.d.)).  \nFigure A-1 Describes how SVM algorithm being represented in AI \n",
+      "images": [
+        {
+          "xref": 42,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        },
+        {
+          "xref": 50,
+          "width": 643,
+          "height": 296,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 1509
+        },
+        {
+          "xref": 52,
+          "width": 466,
+          "height": 405,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 32920
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 5,
+          "sequence_id": 61,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      5",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 5,
+          "sequence_id": 62
+        },
+        {
+          "type": "paragraph",
+          "text": "AI Algorithms and Models",
+          "bbox": [
+            72.02400207519531,
+            108.72798156738281,
+            212.08999633789062,
+            135.8119659423828
+          ],
+          "page_number": 5,
+          "sequence_id": 63
+        },
+        {
+          "type": "paragraph",
+          "text": "AI is mainly based on algorithms and models as a technique which is designed based on",
+          "bbox": [
+            108.0199966430664,
+            158.04798889160156,
+            542.7319946289062,
+            171.3319854736328
+          ],
+          "page_number": 5,
+          "sequence_id": 64
+        },
+        {
+          "type": "paragraph",
+          "text": "scientific findings such as math, statists, and biology (Li& Jiang, (n.d.)). AI works based on",
+          "bbox": [
+            72.02400207519531,
+            185.6480255126953,
+            543.06396484375,
+            198.93202209472656
+          ],
+          "page_number": 5,
+          "sequence_id": 65
+        },
+        {
+          "type": "paragraph",
+          "text": "several models such as:   Ant Colony Algorithm, Immune Algorithm, Fuzzy Algorithm, Decision",
+          "bbox": [
+            72.02400207519531,
+            213.27796936035156,
+            543.0760498046875,
+            226.5619659423828
+          ],
+          "page_number": 5,
+          "sequence_id": 66
+        },
+        {
+          "type": "paragraph",
+          "text": "Tree, Genetic Algorithm, Particle Swarm Algorithm, Neural Network, Deep Learning and in this",
+          "bbox": [
+            72.02400207519531,
+            240.8780059814453,
+            543.0640869140625,
+            254.16200256347656
+          ],
+          "page_number": 5,
+          "sequence_id": 67
+        },
+        {
+          "type": "paragraph",
+          "text": "report, I will discuss some of the most known models which are: Support Vector Machine, and",
+          "bbox": [
+            72.02400207519531,
+            268.4779968261719,
+            542.8700561523438,
+            281.7619934082031
+          ],
+          "page_number": 5,
+          "sequence_id": 68
+        },
+        {
+          "type": "paragraph",
+          "text": "the Artificial Neural Network.",
+          "bbox": [
+            72.02400207519531,
+            296.0780029296875,
+            220.3699951171875,
+            309.36199951171875
+          ],
+          "page_number": 5,
+          "sequence_id": 69
+        },
+        {
+          "type": "paragraph",
+          "text": "•   Support Vector Machine (SVM) where it is used to build a classification model by",
+          "bbox": [
+            108.0199966430664,
+            331.30999755859375,
+            542.7321166992188,
+            345.9620056152344
+          ],
+          "page_number": 5,
+          "sequence_id": 70
+        },
+        {
+          "type": "paragraph",
+          "text": "finding an optimal hyperplane based on a set of training examples as shown in (figure",
+          "bbox": [
+            126.0199966430664,
+            360.1780090332031,
+            542.9979248046875,
+            373.4620056152344
+          ],
+          "page_number": 5,
+          "sequence_id": 71
+        },
+        {
+          "type": "paragraph",
+          "text": "A-1). It is also have been used for pattern classification and trend prediction lots of",
+          "bbox": [
+            126.0199966430664,
+            387.77801513671875,
+            542.7320556640625,
+            401.06201171875
+          ],
+          "page_number": 5,
+          "sequence_id": 72
+        },
+        {
+          "type": "paragraph",
+          "text": "applications for instance: power transformer fault diagnosis, disease diagnosis and",
+          "bbox": [
+            126.0199966430664,
+            415.3780212402344,
+            542.7319946289062,
+            428.6620178222656
+          ],
+          "page_number": 5,
+          "sequence_id": 73
+        },
+        {
+          "type": "paragraph",
+          "text": "treatment optimization. (Li& Jiang, (n.d.)).",
+          "bbox": [
+            126.0199966430664,
+            442.97802734375,
+            338.3299865722656,
+            456.26202392578125
+          ],
+          "page_number": 5,
+          "sequence_id": 74
+        },
+        {
+          "type": "image",
+          "xref": 15,
+          "bbox": [
+            95.87999725341797,
+            473.8800048828125,
+            558.239990234375,
+            686.52001953125
+          ],
+          "page_number": 5,
+          "sequence_id": 75,
+          "after_sequence_id": 74
+        },
+        {
+          "type": "image",
+          "xref": 16,
+          "bbox": [
+            101.0,
+            479.010009765625,
+            549.25,
+            677.510009765625
+          ],
+          "page_number": 5,
+          "sequence_id": 76,
+          "after_sequence_id": 74
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure A-1 Describes how SVM algorithm being represented in AI",
+          "bbox": [
+            153.02000427246094,
+            671.7633056640625,
+            450.6700134277344,
+            683.984619140625
+          ],
+          "page_number": 5,
+          "sequence_id": 77
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 6 \n \n \n• Artificial Neural Network (ANN) is a representative model of understanding thoughts \nand behaviors in terms of physical connection between neurons. ANN has been used \nto solve variety of problems through enabling the machine to build mathematical \nmodels to be able to imitate natural activities from brains perspective as shown in \n(figure A- 2). By using this algorithm, the machine will be able to identify the \nsolution of any problem just like human’s brain.  \n \n \n \n \n \n \nSome Applications on Artificial Intelligence:  \n \nAI can be designed using lots of algorithms. These algorithms help the system to \ndetermine the expected response which will basically tell the computer what to expect and work \naccordingly. Here are some of the greatest AI applications that we are probably using in our \ndaily life without knowing: \no Voice recognition \no Virtual agents:  \no Machine learning platform  \nFigure A-2 Describes how ANN algorithm being represented in AI \n",
+      "images": [
+        {
+          "xref": 55,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 6,
+          "sequence_id": 78,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      6",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 6,
+          "sequence_id": 79
+        },
+        {
+          "type": "paragraph",
+          "text": "•   Artificial Neural Network (ANN) is a representative model of understanding thoughts",
+          "bbox": [
+            108.0199966430664,
+            122.1199951171875,
+            542.9860229492188,
+            136.77198791503906
+          ],
+          "page_number": 6,
+          "sequence_id": 80
+        },
+        {
+          "type": "paragraph",
+          "text": "and behaviors in terms of physical connection between neurons. ANN has been used",
+          "bbox": [
+            126.0199966430664,
+            150.9679718017578,
+            542.998046875,
+            164.25196838378906
+          ],
+          "page_number": 6,
+          "sequence_id": 81
+        },
+        {
+          "type": "paragraph",
+          "text": "to solve variety of problems through enabling the machine to build mathematical",
+          "bbox": [
+            126.0199966430664,
+            178.56800842285156,
+            542.9739990234375,
+            191.8520050048828
+          ],
+          "page_number": 6,
+          "sequence_id": 82
+        },
+        {
+          "type": "paragraph",
+          "text": "models to be able to imitate natural activities from brains perspective as shown in",
+          "bbox": [
+            126.0199966430664,
+            206.19801330566406,
+            543.010009765625,
+            219.4820098876953
+          ],
+          "page_number": 6,
+          "sequence_id": 83
+        },
+        {
+          "type": "paragraph",
+          "text": "(figure A- 2). By using this algorithm, the machine will be able to identify the",
+          "bbox": [
+            126.0199966430664,
+            233.79798889160156,
+            542.803955078125,
+            247.0819854736328
+          ],
+          "page_number": 6,
+          "sequence_id": 84
+        },
+        {
+          "type": "paragraph",
+          "text": "solution of any problem just like human’s brain.",
+          "bbox": [
+            126.0199966430664,
+            261.3980407714844,
+            363.42999267578125,
+            274.6820373535156
+          ],
+          "page_number": 6,
+          "sequence_id": 85
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure A-2 Describes how ANN algorithm being represented in AI",
+          "bbox": [
+            162.5,
+            456.7933654785156,
+            460.1500244140625,
+            469.0146484375
+          ],
+          "page_number": 6,
+          "sequence_id": 86
+        },
+        {
+          "type": "paragraph",
+          "text": "Some Applications on Artificial Intelligence:",
+          "bbox": [
+            72.02400207519531,
+            502.6479797363281,
+            305.3299865722656,
+            515.9319458007812
+          ],
+          "page_number": 6,
+          "sequence_id": 87
+        },
+        {
+          "type": "paragraph",
+          "text": "AI can be designed using lots of algorithms. These algorithms help the system to",
+          "bbox": [
+            72.02400207519531,
+            538.16796875,
+            543.0099487304688,
+            551.4519653320312
+          ],
+          "page_number": 6,
+          "sequence_id": 88
+        },
+        {
+          "type": "paragraph",
+          "text": "determine the expected response which will basically tell the computer what to expect and work",
+          "bbox": [
+            72.02400207519531,
+            565.7680053710938,
+            542.7239990234375,
+            579.052001953125
+          ],
+          "page_number": 6,
+          "sequence_id": 89
+        },
+        {
+          "type": "paragraph",
+          "text": "accordingly. Here are some of the greatest AI applications that we are probably using in our",
+          "bbox": [
+            72.02400207519531,
+            593.3679809570312,
+            542.7319946289062,
+            606.6519775390625
+          ],
+          "page_number": 6,
+          "sequence_id": 90
+        },
+        {
+          "type": "paragraph",
+          "text": "daily life without knowing:",
+          "bbox": [
+            72.02400207519531,
+            620.968017578125,
+            206.05999755859375,
+            634.2520141601562
+          ],
+          "page_number": 6,
+          "sequence_id": 91
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Voice recognition",
+          "bbox": [
+            144.02000427246094,
+            656.4600219726562,
+            251.3300018310547,
+            669.9119873046875
+          ],
+          "page_number": 6,
+          "sequence_id": 92
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Virtual agents:",
+          "bbox": [
+            144.02000427246094,
+            677.1000366210938,
+            239.08999633789062,
+            690.552001953125
+          ],
+          "page_number": 6,
+          "sequence_id": 93
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Machine learning platform",
+          "bbox": [
+            144.02000427246094,
+            697.8599853515625,
+            296.69000244140625,
+            711.3119506835938
+          ],
+          "page_number": 6,
+          "sequence_id": 94
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 7 \n \n \no Ai optimized hardware \no Decision management \no Deep learning platform  \no Biomatters \no Robotic process automation \no Text analytics and NLP \no Adaptive Manufacturing:  \n▪ Machines that are “able to learn a multitude of tasks from \ndemonstrations, just like their human counterparts can.” (“Yoa”,2017)) \nAI Design Models \n  \nAI application are a lot around us and in this paper, I will discuss some of the most \ncommon application of AI that we always use nowadays which is Virtual Assistants such as Siri, \nCortana...etc. Over the past few years smart assistants are becoming a very common technology \nin most of the smart devices and most importantly, that these assistants are getting smarter than \never. In addition to the awesome help they provide us with, is that every one of these apps has \nunique features. Artificial Intelligence works according to the following phases: getting the data, \nclean/manipulate/ prepare the data, train model, test data, and improve the data as mentioned in \n(figure A-3). Before accessing the data, a business must verify the quality of the data to ensure \nthat it meets the requirement.  \nFigure A- 3 Describes Phases of Developing Artificial \nlli\n",
+      "images": [
+        {
+          "xref": 60,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        },
+        {
+          "xref": 66,
+          "width": 648,
+          "height": 192,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 1065
+        },
+        {
+          "xref": 68,
+          "width": 934,
+          "height": 425,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 39263
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 7,
+          "sequence_id": 95,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      7",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 7,
+          "sequence_id": 96
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Ai optimized hardware",
+          "bbox": [
+            144.02000427246094,
+            122.35997009277344,
+            275.69000244140625,
+            135.8119659423828
+          ],
+          "page_number": 7,
+          "sequence_id": 97
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Decision management",
+          "bbox": [
+            144.02000427246094,
+            142.99998474121094,
+            271.9700012207031,
+            156.4519805908203
+          ],
+          "page_number": 7,
+          "sequence_id": 98
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Deep learning platform",
+          "bbox": [
+            144.02000427246094,
+            163.75999450683594,
+            280.010009765625,
+            177.2119903564453
+          ],
+          "page_number": 7,
+          "sequence_id": 99
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Biomatters",
+          "bbox": [
+            144.02000427246094,
+            184.40000915527344,
+            217.72999572753906,
+            197.8520050048828
+          ],
+          "page_number": 7,
+          "sequence_id": 100
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Robotic process automation",
+          "bbox": [
+            144.02000427246094,
+            205.16001892089844,
+            299.0899963378906,
+            218.6120147705078
+          ],
+          "page_number": 7,
+          "sequence_id": 101
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Text analytics and NLP",
+          "bbox": [
+            144.02000427246094,
+            225.8300018310547,
+            278.69000244140625,
+            239.28199768066406
+          ],
+          "page_number": 7,
+          "sequence_id": 102
+        },
+        {
+          "type": "paragraph",
+          "text": "o   Adaptive Manufacturing:",
+          "bbox": [
+            144.02000427246094,
+            246.5900115966797,
+            289.7300109863281,
+            260.0420227050781
+          ],
+          "page_number": 7,
+          "sequence_id": 103
+        },
+        {
+          "type": "paragraph",
+          "text": "▪   Machines that are “able to learn a multitude of tasks from",
+          "bbox": [
+            180.02000427246094,
+            267.23004150390625,
+            477.5240478515625,
+            280.6820373535156
+          ],
+          "page_number": 7,
+          "sequence_id": 104
+        },
+        {
+          "type": "paragraph",
+          "text": "demonstrations, just like their human counterparts can.” (“Yoa”,2017))",
+          "bbox": [
+            198.02000427246094,
+            288.15802001953125,
+            542.3800048828125,
+            301.4420166015625
+          ],
+          "page_number": 7,
+          "sequence_id": 105
+        },
+        {
+          "type": "paragraph",
+          "text": "AI Design Models",
+          "bbox": [
+            72.02400207519531,
+            316.8380126953125,
+            166.33999633789062,
+            330.12200927734375
+          ],
+          "page_number": 7,
+          "sequence_id": 106
+        },
+        {
+          "type": "paragraph",
+          "text": "AI application are a lot around us and in this paper, I will discuss some of the most",
+          "bbox": [
+            72.02400207519531,
+            352.3780212402344,
+            542.744140625,
+            365.6620178222656
+          ],
+          "page_number": 7,
+          "sequence_id": 107
+        },
+        {
+          "type": "paragraph",
+          "text": "common application of AI that we always use nowadays which is Virtual Assistants such as Siri,",
+          "bbox": [
+            72.02400207519531,
+            379.97802734375,
+            542.8579711914062,
+            393.26202392578125
+          ],
+          "page_number": 7,
+          "sequence_id": 108
+        },
+        {
+          "type": "paragraph",
+          "text": "Cortana...etc. Over the past few years smart assistants are becoming a very common technology",
+          "bbox": [
+            72.02400207519531,
+            407.5780029296875,
+            543.0220947265625,
+            420.86199951171875
+          ],
+          "page_number": 7,
+          "sequence_id": 109
+        },
+        {
+          "type": "paragraph",
+          "text": "in most of the smart devices and most importantly, that these assistants are getting smarter than",
+          "bbox": [
+            72.02400207519531,
+            435.1780090332031,
+            542.7240600585938,
+            448.4620056152344
+          ],
+          "page_number": 7,
+          "sequence_id": 110
+        },
+        {
+          "type": "paragraph",
+          "text": "ever. In addition to the awesome help they provide us with, is that every one of these apps has",
+          "bbox": [
+            72.02400207519531,
+            462.77801513671875,
+            542.9501342773438,
+            476.06201171875
+          ],
+          "page_number": 7,
+          "sequence_id": 111
+        },
+        {
+          "type": "paragraph",
+          "text": "unique features. Artificial Intelligence works according to the following phases: getting the data,",
+          "bbox": [
+            72.02400207519531,
+            490.3780212402344,
+            543.010009765625,
+            503.6620178222656
+          ],
+          "page_number": 7,
+          "sequence_id": 112
+        },
+        {
+          "type": "paragraph",
+          "text": "clean/manipulate/ prepare the data, train model, test data, and improve the data as mentioned in",
+          "bbox": [
+            72.02400207519531,
+            518.0079956054688,
+            543.02197265625,
+            531.2919921875
+          ],
+          "page_number": 7,
+          "sequence_id": 113
+        },
+        {
+          "type": "paragraph",
+          "text": "(figure A-3). Before accessing the data, a business must verify the quality of the data to ensure",
+          "bbox": [
+            72.02400207519531,
+            545.6079711914062,
+            543.0759887695312,
+            558.8919677734375
+          ],
+          "page_number": 7,
+          "sequence_id": 114
+        },
+        {
+          "type": "paragraph",
+          "text": "that it meets the requirement.",
+          "bbox": [
+            72.02400207519531,
+            573.2080078125,
+            218.3300018310547,
+            586.4920043945312
+          ],
+          "page_number": 7,
+          "sequence_id": 115
+        },
+        {
+          "type": "image",
+          "xref": 25,
+          "bbox": [
+            71.4000015258789,
+            612.48095703125,
+            537.47998046875,
+            750.0009765625
+          ],
+          "page_number": 7,
+          "sequence_id": 116,
+          "after_sequence_id": 115
+        },
+        {
+          "type": "image",
+          "xref": 26,
+          "bbox": [
+            76.5,
+            617.5070190429688,
+            528.5,
+            741.0070190429688
+          ],
+          "page_number": 7,
+          "sequence_id": 117,
+          "after_sequence_id": 115
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure A- 3 Describes Phases of Developing Artificial",
+          "bbox": [
+            155.5399932861328,
+            746.0433349609375,
+            397.5331726074219,
+            758.2646484375
+          ],
+          "page_number": 7,
+          "sequence_id": 118
+        },
+        {
+          "type": "paragraph",
+          "text": "lli",
+          "bbox": [
+            172.55264282226562,
+            759.723388671875,
+            181.859375,
+            771.9446411132812
+          ],
+          "page_number": 7,
+          "sequence_id": 119
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 8 \n \n \n  Siri Virtual Assistant: \n  \nSiri is the well-known virtual assistant which uses voice recognitions and typed command \nin order to perform a certain task within a device. Siri is considered one of AI most used \napplications. The application simply takes the input from the user such as (e.g. Call dad) and try \nto find the most related keywords used in this command. Siri tries to eliminate inconsistent result \nthrough using the language pattern recognizer and from there to active ontology by searching \nthrough the contacts, then it tries to relate the contact named “Dad” and perform the task which \nis in this case is “Calling” and finally the output of this action will be “calling dad” and to \nconsider all the possible situations refer to (figure A-4).  \nFigure A- 3 Describes one Example of configuration for Siri  \n",
+      "images": [
+        {
+          "xref": 71,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        },
+        {
+          "xref": 72,
+          "width": 669,
+          "height": 434,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 2276
+        },
+        {
+          "xref": 74,
+          "width": 746,
+          "height": 765,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 82748
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 8,
+          "sequence_id": 120,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      8",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 8,
+          "sequence_id": 121
+        },
+        {
+          "type": "paragraph",
+          "text": "Siri Virtual Assistant:",
+          "bbox": [
+            72.02400207519531,
+            108.72798156738281,
+            185.66000366210938,
+            135.8119659423828
+          ],
+          "page_number": 8,
+          "sequence_id": 122
+        },
+        {
+          "type": "paragraph",
+          "text": "Siri is the well-known virtual assistant which uses voice recognitions and typed command",
+          "bbox": [
+            72.02400207519531,
+            158.04798889160156,
+            542.9539794921875,
+            171.3319854736328
+          ],
+          "page_number": 8,
+          "sequence_id": 123
+        },
+        {
+          "type": "paragraph",
+          "text": "in order to perform a certain task within a device. Siri is considered one of AI most used",
+          "bbox": [
+            72.02400207519531,
+            185.6480255126953,
+            542.7479858398438,
+            198.93202209472656
+          ],
+          "page_number": 8,
+          "sequence_id": 124
+        },
+        {
+          "type": "paragraph",
+          "text": "applications. The application simply takes the input from the user such as (e.g. Call dad) and try",
+          "bbox": [
+            72.02400207519531,
+            213.27796936035156,
+            543.0339965820312,
+            226.5619659423828
+          ],
+          "page_number": 8,
+          "sequence_id": 125
+        },
+        {
+          "type": "paragraph",
+          "text": "to find the most related keywords used in this command. Siri tries to eliminate inconsistent result",
+          "bbox": [
+            72.02400207519531,
+            240.8780059814453,
+            542.7120971679688,
+            254.16200256347656
+          ],
+          "page_number": 8,
+          "sequence_id": 126
+        },
+        {
+          "type": "paragraph",
+          "text": "through using the language pattern recognizer and from there to active ontology by searching",
+          "bbox": [
+            72.02400207519531,
+            268.4779968261719,
+            542.6640625,
+            281.7619934082031
+          ],
+          "page_number": 8,
+          "sequence_id": 127
+        },
+        {
+          "type": "paragraph",
+          "text": "through the contacts, then it tries to relate the contact named “Dad” and perform the task which",
+          "bbox": [
+            72.02400207519531,
+            296.0780029296875,
+            542.9500732421875,
+            309.36199951171875
+          ],
+          "page_number": 8,
+          "sequence_id": 128
+        },
+        {
+          "type": "paragraph",
+          "text": "is in this case is “Calling” and finally the output of this action will be “calling dad” and to",
+          "bbox": [
+            72.02400207519531,
+            323.6780090332031,
+            543.0640258789062,
+            336.9620056152344
+          ],
+          "page_number": 8,
+          "sequence_id": 129
+        },
+        {
+          "type": "paragraph",
+          "text": "consider all the possible situations refer to (figure A-4).",
+          "bbox": [
+            72.02400207519531,
+            351.2980041503906,
+            345.04998779296875,
+            364.5820007324219
+          ],
+          "page_number": 8,
+          "sequence_id": 130
+        },
+        {
+          "type": "image",
+          "xref": 12,
+          "bbox": [
+            65.27999877929688,
+            387.9599609375,
+            546.8399658203125,
+            699.719970703125
+          ],
+          "page_number": 8,
+          "sequence_id": 131,
+          "after_sequence_id": 130
+        },
+        {
+          "type": "image",
+          "xref": 13,
+          "bbox": [
+            70.30000305175781,
+            393.010009765625,
+            537.8499755859375,
+            690.7100219726562
+          ],
+          "page_number": 8,
+          "sequence_id": 132,
+          "after_sequence_id": 130
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure A- 3 Describes one Example of configuration for Siri",
+          "bbox": [
+            168.5,
+            693.723388671875,
+            440.1100158691406,
+            705.9446411132812
+          ],
+          "page_number": 8,
+          "sequence_id": 133
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 9 \n \n \nIn another scenario the architecture of the virtual assistant is shown in (figure A – 5) as we can \nsee the flow of the system starts by taking the input from the user, after that the system decide \nthe conversation strategy module to be used which is a respond from the dialog management \nmodule, meanwhile a classification module response to an NLP module. Finally, using the \nconversation history database is used to analyze the knowledge base construction module which \nwill response back to the domain knowledge based as explained in detail in (figure A- 5) \n \nConclusion \nAI nowadays is being implemented in almost every field of study through several models \nsuch as SVM and ANN. We should be able to proceed with knowing and understanding the \nconsequences of every technological trend. In my opinion, we are in the AI revelation era and \ntherefore; we should adopt into this change and welcome it too by embracing AI and moving \ntoward a better society. \n \n \nFigure A-5 Describes Proposed conversational agent architecture \n",
+      "images": [
+        {
+          "xref": 77,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        },
+        {
+          "xref": 78,
+          "width": 670,
+          "height": 246,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 1335
+        },
+        {
+          "xref": 80,
+          "width": 662,
+          "height": 331,
+          "color_space": 3,
+          "image_format": "png",
+          "size_bytes": 11070
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 9,
+          "sequence_id": 134,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      9",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 9,
+          "sequence_id": 135
+        },
+        {
+          "type": "paragraph",
+          "text": "In another scenario the architecture of the virtual assistant is shown in (figure A – 5) as we can",
+          "bbox": [
+            72.02400207519531,
+            108.72798156738281,
+            529.4860229492188,
+            135.8119659423828
+          ],
+          "page_number": 9,
+          "sequence_id": 136
+        },
+        {
+          "type": "paragraph",
+          "text": "see the flow of the system starts by taking the input from the user, after that the system decide",
+          "bbox": [
+            72.02400207519531,
+            150.1280059814453,
+            525.7320556640625,
+            163.41200256347656
+          ],
+          "page_number": 9,
+          "sequence_id": 137
+        },
+        {
+          "type": "paragraph",
+          "text": "the conversation strategy module to be used which is a respond from the dialog management",
+          "bbox": [
+            72.02400207519531,
+            177.7279815673828,
+            519.4819946289062,
+            191.01197814941406
+          ],
+          "page_number": 9,
+          "sequence_id": 138
+        },
+        {
+          "type": "paragraph",
+          "text": "module, meanwhile a classification module response to an NLP module. Finally, using the",
+          "bbox": [
+            72.02400207519531,
+            205.32801818847656,
+            509.2340087890625,
+            218.6120147705078
+          ],
+          "page_number": 9,
+          "sequence_id": 139
+        },
+        {
+          "type": "paragraph",
+          "text": "conversation history database is used to analyze the knowledge base construction module which",
+          "bbox": [
+            72.02400207519531,
+            232.95802307128906,
+            536.0160522460938,
+            246.2420196533203
+          ],
+          "page_number": 9,
+          "sequence_id": 140
+        },
+        {
+          "type": "paragraph",
+          "text": "will response back to the domain knowledge based as explained in detail in (figure A- 5)",
+          "bbox": [
+            72.02400207519531,
+            260.5580139160156,
+            500.6199951171875,
+            273.8420104980469
+          ],
+          "page_number": 9,
+          "sequence_id": 141
+        },
+        {
+          "type": "image",
+          "xref": 19,
+          "bbox": [
+            70.44000244140625,
+            297.7200012207031,
+            552.3599853515625,
+            474.6000061035156
+          ],
+          "page_number": 9,
+          "sequence_id": 142,
+          "after_sequence_id": 141
+        },
+        {
+          "type": "image",
+          "xref": 20,
+          "bbox": [
+            75.55000305175781,
+            302.80999755859375,
+            543.4000244140625,
+            465.6600036621094
+          ],
+          "page_number": 9,
+          "sequence_id": 143,
+          "after_sequence_id": 141
+        },
+        {
+          "type": "paragraph",
+          "text": "Figure A-5 Describes Proposed conversational agent architecture",
+          "bbox": [
+            149.89999389648438,
+            476.1133728027344,
+            439.27001953125,
+            488.33465576171875
+          ],
+          "page_number": 9,
+          "sequence_id": 144
+        },
+        {
+          "type": "paragraph",
+          "text": "Conclusion",
+          "bbox": [
+            72.02400207519531,
+            500.2480163574219,
+            132.3800048828125,
+            513.531982421875
+          ],
+          "page_number": 9,
+          "sequence_id": 145
+        },
+        {
+          "type": "paragraph",
+          "text": "AI nowadays is being implemented in almost every field of study through several models",
+          "bbox": [
+            108.0199966430664,
+            523.16796875,
+            543.0100708007812,
+            536.4519653320312
+          ],
+          "page_number": 9,
+          "sequence_id": 146
+        },
+        {
+          "type": "paragraph",
+          "text": "such as SVM and ANN. We should be able to proceed with knowing and understanding the",
+          "bbox": [
+            72.02400207519531,
+            550.7680053710938,
+            542.9299926757812,
+            564.052001953125
+          ],
+          "page_number": 9,
+          "sequence_id": 147
+        },
+        {
+          "type": "paragraph",
+          "text": "consequences of every technological trend. In my opinion, we are in the AI revelation era and",
+          "bbox": [
+            72.02400207519531,
+            578.3679809570312,
+            543.0759887695312,
+            591.6519775390625
+          ],
+          "page_number": 9,
+          "sequence_id": 148
+        },
+        {
+          "type": "paragraph",
+          "text": "therefore; we should adopt into this change and welcome it too by embracing AI and moving",
+          "bbox": [
+            72.02400207519531,
+            605.968017578125,
+            542.6880493164062,
+            619.2520141601562
+          ],
+          "page_number": 9,
+          "sequence_id": 149
+        },
+        {
+          "type": "paragraph",
+          "text": "toward a better society.",
+          "bbox": [
+            72.02400207519531,
+            633.5679931640625,
+            186.97999572753906,
+            646.8519897460938
+          ],
+          "page_number": 9,
+          "sequence_id": 150
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 10 \n \n \nREFERENCES \n \nArtificial Intelligence Technology and Engineering Applications. (2017). ACES JOURNAL, 32, \n5th ser., 381-386. Retrieved November 23, 2017, from \nfile:///C:/Users/lenovo/Desktop/ContentServer%20(1).pdf \nApple introduces us to Siri, the Killer Patent. (2012, January 19). Retrieved November 25, 2017, \nfrom http://www.patentlyapple.com/patently-apple/2012/01/apple-introduces-us-to-siri-the-\nkiller-patent.html \nAcceptability of Embodied Conversational Agent in a health care context. (n.d.). Retrieved \nNovember 25, 2017, from http://www.sanpsy.univ-\nbordeauxsegalen.fr/Papers/IVA_Additional_Material.html \n [End Times Production]. (2017, March 13). Sophia The A.I Robot [Video File]. Retrieved from \nhttps://www.youtube.com/watch?v=wimUaNqEJyw \nGaleon, D., & Gphd, C. (2017, October 20). Dubai just appointed a \"State Minister for Artificial \nIntelligence\". Retrieved November 22, 2017, from https://futurism.com/dubai-just-appointed-a-\nstate-minister-for-artificial-intelligence \nHong, K. (n.d.). Machine Learning with scikit-learn. Retrieved November 22, 2017, from \nhttp://www.bogotobogo.com/python/scikit-\nlearn/scikit_machine_learning_Support_Vector_Machines_SVM.php \n",
+      "images": [
+        {
+          "xref": 83,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 10,
+          "sequence_id": 151,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      10",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 10,
+          "sequence_id": 152
+        },
+        {
+          "type": "paragraph",
+          "text": "REFERENCES",
+          "bbox": [
+            265.7300109863281,
+            122.52796936035156,
+            349.3900146484375,
+            135.8119659423828
+          ],
+          "page_number": 10,
+          "sequence_id": 153
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial Intelligence Technology and Engineering Applications . (2017). ACES JOURNAL, 32,",
+          "bbox": [
+            72.02400207519531,
+            186.8479766845703,
+            537.1299438476562,
+            200.13197326660156
+          ],
+          "page_number": 10,
+          "sequence_id": 154
+        },
+        {
+          "type": "paragraph",
+          "text": "5th ser., 381-386. Retrieved November 23, 2017, from",
+          "bbox": [
+            72.02400207519531,
+            214.4779815673828,
+            337.0099792480469,
+            227.76197814941406
+          ],
+          "page_number": 10,
+          "sequence_id": 155
+        },
+        {
+          "type": "paragraph",
+          "text": "file:///C:/Users/lenovo/Desktop/ContentServer%20(1).pdf",
+          "bbox": [
+            72.02400207519531,
+            241.95802307128906,
+            353.3500061035156,
+            255.2420196533203
+          ],
+          "page_number": 10,
+          "sequence_id": 156
+        },
+        {
+          "type": "paragraph",
+          "text": "Apple introduces us to Siri, the Killer Patent. (2012, January 19). Retrieved November 25, 2017,",
+          "bbox": [
+            72.02400207519531,
+            277.5980224609375,
+            538.6920166015625,
+            290.88201904296875
+          ],
+          "page_number": 10,
+          "sequence_id": 157
+        },
+        {
+          "type": "paragraph",
+          "text": "from http://www.patentlyapple.com/patently-apple/2012/01/apple-introduces-us-to-siri-the-",
+          "bbox": [
+            72.02400207519531,
+            305.1980285644531,
+            512.2959594726562,
+            318.4820251464844
+          ],
+          "page_number": 10,
+          "sequence_id": 158
+        },
+        {
+          "type": "paragraph",
+          "text": "killer-patent.html",
+          "bbox": [
+            72.02400207519531,
+            332.7980041503906,
+            158.66000366210938,
+            346.0820007324219
+          ],
+          "page_number": 10,
+          "sequence_id": 159
+        },
+        {
+          "type": "paragraph",
+          "text": "Acceptability of Embodied Conversational Agent in a health care context. (n.d.). Retrieved",
+          "bbox": [
+            72.02400207519531,
+            368.4580078125,
+            511.6679992675781,
+            381.74200439453125
+          ],
+          "page_number": 10,
+          "sequence_id": 160
+        },
+        {
+          "type": "paragraph",
+          "text": "November 25, 2017, from http://www.sanpsy.univ-",
+          "bbox": [
+            72.02400207519531,
+            396.0580139160156,
+            318.6860046386719,
+            409.3420104980469
+          ],
+          "page_number": 10,
+          "sequence_id": 161
+        },
+        {
+          "type": "paragraph",
+          "text": "bordeauxsegalen.fr/Papers/IVA_Additional_Material.html",
+          "bbox": [
+            72.02400207519531,
+            423.65802001953125,
+            355.6300048828125,
+            436.9420166015625
+          ],
+          "page_number": 10,
+          "sequence_id": 162
+        },
+        {
+          "type": "paragraph",
+          "text": "[End Times Production]. (2017, March 13).  Sophia The A.I Robot  [Video File]. Retrieved from",
+          "bbox": [
+            72.02400207519531,
+            459.1780090332031,
+            534.5859375,
+            472.4620056152344
+          ],
+          "page_number": 10,
+          "sequence_id": 163
+        },
+        {
+          "type": "paragraph",
+          "text": "https://www.youtube.com/watch?v=wimUaNqEJyw",
+          "bbox": [
+            72.02400207519531,
+            486.77801513671875,
+            326.45001220703125,
+            500.06201171875
+          ],
+          "page_number": 10,
+          "sequence_id": 164
+        },
+        {
+          "type": "paragraph",
+          "text": "Galeon, D., & Gphd, C. (2017, October 20). Dubai just appointed a \"State Minister for Artificial",
+          "bbox": [
+            72.02400207519531,
+            522.447998046875,
+            537.7659912109375,
+            535.7319946289062
+          ],
+          "page_number": 10,
+          "sequence_id": 165
+        },
+        {
+          "type": "paragraph",
+          "text": "Intelligence\". Retrieved November 22, 2017, from https://futurism.com/dubai-just-appointed-a-",
+          "bbox": [
+            72.02400207519531,
+            550.0479736328125,
+            531.0159912109375,
+            563.3319702148438
+          ],
+          "page_number": 10,
+          "sequence_id": 166
+        },
+        {
+          "type": "paragraph",
+          "text": "state-minister-for-artificial-intelligence",
+          "bbox": [
+            72.02400207519531,
+            577.64794921875,
+            262.9700012207031,
+            590.9319458007812
+          ],
+          "page_number": 10,
+          "sequence_id": 167
+        },
+        {
+          "type": "paragraph",
+          "text": "Hong, K. (n.d.). Machine Learning with scikit-learn. Retrieved November 22, 2017, from",
+          "bbox": [
+            72.02400207519531,
+            613.2879638671875,
+            504.6019592285156,
+            626.5719604492188
+          ],
+          "page_number": 10,
+          "sequence_id": 168
+        },
+        {
+          "type": "paragraph",
+          "text": "http://www.bogotobogo.com/python/scikit-",
+          "bbox": [
+            72.02400207519531,
+            640.907958984375,
+            280.64599609375,
+            654.1919555664062
+          ],
+          "page_number": 10,
+          "sequence_id": 169
+        },
+        {
+          "type": "paragraph",
+          "text": "learn/scikit_machine_learning_Support_Vector_Machines_SVM.php",
+          "bbox": [
+            72.02400207519531,
+            668.5079956054688,
+            408.7900085449219,
+            681.7919921875
+          ],
+          "page_number": 10,
+          "sequence_id": 170
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 11 \n \n \nKnight, W. (2017, January 04). What to expect of artificial intelligence in 2017. Retrieved \nNovember 23, 2017, from https://www.technologyreview.com/s/603216/5-big-predictions-for-\nartificial-intelligence-in-2017/ \nMahanta, J. (2017, July 10). Introduction to Neural Networks, Advantages and Applications. \nRetrieved November 23, 2017, from https://towardsdatascience.com/introduction-to-neural-\nnetworks-advantages-and-applications-96851bd1a207 \nMahmodey, Z. (2017, April 22). Big Data  and Artificial Intelligence for Digital Business. \nRetrieved November 25, 2017, from http://www.immersiveauthority.com/big-data-artificial-\nintelligence-digital-business/ \nMcFarlane. N. (2017, October 19). The UAE now has a minister of Artificial Intelligence. \nRetrieved November 22, 2017, from http://whatson.ae/dubai/2017/10/uae-now-minister-\nartificial-intelligence/ \nSadek, A. W., & CHOWDHURY, M. (2012, November). Artificial Intelligence Applications to \nCritical Transportation Issues . Retrieved November 24, 2017, from \nhttps://www.researchgate.net/profile/Said_Easa/publication/273576102_Design_and_constructio\nn_of_transportation_infrastructure_httponlinepubstrborgonlinepubscircularsec168pdf/links/5509\n7a910cf26ff55f85932b.pdf#page=14 \n \n",
+      "images": [
+        {
+          "xref": 86,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 11,
+          "sequence_id": 171,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      11",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 11,
+          "sequence_id": 172
+        },
+        {
+          "type": "paragraph",
+          "text": "Knight, W. (2017, January 04). What to expect of artificial intelligence in 2017. Retrieved",
+          "bbox": [
+            72.02400207519531,
+            108.72798156738281,
+            508.0679931640625,
+            135.8119659423828
+          ],
+          "page_number": 11,
+          "sequence_id": 173
+        },
+        {
+          "type": "paragraph",
+          "text": "November 23, 2017, from https://www.technologyreview.com/s/603216/5-big-predictions-for-",
+          "bbox": [
+            72.02400207519531,
+            150.1280059814453,
+            527.4159545898438,
+            163.41200256347656
+          ],
+          "page_number": 11,
+          "sequence_id": 174
+        },
+        {
+          "type": "paragraph",
+          "text": "artificial-intelligence-in-2017/",
+          "bbox": [
+            72.02400207519531,
+            177.7279815673828,
+            220.3699951171875,
+            191.01197814941406
+          ],
+          "page_number": 11,
+          "sequence_id": 175
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahanta, J. (2017, July 10). Introduction to Neural Networks, Advantages and Applications.",
+          "bbox": [
+            72.02400207519531,
+            213.27796936035156,
+            519.840087890625,
+            226.5619659423828
+          ],
+          "page_number": 11,
+          "sequence_id": 176
+        },
+        {
+          "type": "paragraph",
+          "text": "Retrieved November 23, 2017, from https://towardsdatascience.com/introduction-to-neural-",
+          "bbox": [
+            72.02400207519531,
+            240.8780059814453,
+            513.3759765625,
+            254.16200256347656
+          ],
+          "page_number": 11,
+          "sequence_id": 177
+        },
+        {
+          "type": "paragraph",
+          "text": "networks-advantages-and-applications-96851bd1a207",
+          "bbox": [
+            72.02400207519531,
+            268.4779968261719,
+            334.9700012207031,
+            281.7619934082031
+          ],
+          "page_number": 11,
+          "sequence_id": 178
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahmodey, Z. (2017, April 22). Big Data  and Artificial Intelligence for Digital Business.",
+          "bbox": [
+            72.02400207519531,
+            304.1180114746094,
+            508.0440673828125,
+            317.4020080566406
+          ],
+          "page_number": 11,
+          "sequence_id": 179
+        },
+        {
+          "type": "paragraph",
+          "text": "Retrieved November 25, 2017, from http://www.immersiveauthority.com/big-data-artificial-",
+          "bbox": [
+            72.02400207519531,
+            331.718017578125,
+            516.2559814453125,
+            345.00201416015625
+          ],
+          "page_number": 11,
+          "sequence_id": 180
+        },
+        {
+          "type": "paragraph",
+          "text": "intelligence-digital-business/",
+          "bbox": [
+            72.02400207519531,
+            359.3380126953125,
+            213.64999389648438,
+            372.62200927734375
+          ],
+          "page_number": 11,
+          "sequence_id": 181
+        },
+        {
+          "type": "paragraph",
+          "text": "McFarlane. N. (2017, October 19).  The UAE now has a minister of Artificial Intelligence .",
+          "bbox": [
+            72.02400207519531,
+            394.97802734375,
+            504.94000244140625,
+            408.26202392578125
+          ],
+          "page_number": 11,
+          "sequence_id": 182
+        },
+        {
+          "type": "paragraph",
+          "text": "Retrieved November 22, 2017, from http://whatson.ae/dubai/2017/10/uae-now-minister-",
+          "bbox": [
+            72.02400207519531,
+            422.5780029296875,
+            496.6960144042969,
+            435.86199951171875
+          ],
+          "page_number": 11,
+          "sequence_id": 183
+        },
+        {
+          "type": "paragraph",
+          "text": "artificial-intelligence/",
+          "bbox": [
+            72.02400207519531,
+            450.1780090332031,
+            178.94000244140625,
+            463.4620056152344
+          ],
+          "page_number": 11,
+          "sequence_id": 184
+        },
+        {
+          "type": "paragraph",
+          "text": "Sadek, A. W., & CHOWDHURY, M. (2012, November). Artificial Intelligence Applications to",
+          "bbox": [
+            72.02400207519531,
+            485.6980285644531,
+            534.5040893554688,
+            498.9820251464844
+          ],
+          "page_number": 11,
+          "sequence_id": 185
+        },
+        {
+          "type": "paragraph",
+          "text": "Critical Transportation Issues . Retrieved November 24, 2017, from",
+          "bbox": [
+            72.02400207519531,
+            513.3280029296875,
+            400.4040222167969,
+            526.6119995117188
+          ],
+          "page_number": 11,
+          "sequence_id": 186
+        },
+        {
+          "type": "paragraph",
+          "text": "https://www.researchgate.net/profile/Said_Easa/publication/273576102_Design_and_constructio",
+          "bbox": [
+            72.02400207519531,
+            540.927978515625,
+            537.6959838867188,
+            554.2119750976562
+          ],
+          "page_number": 11,
+          "sequence_id": 187
+        },
+        {
+          "type": "paragraph",
+          "text": "n_of_transportation_infrastructure_httponlinepubstrborgonlinepubscircularsec168pdf/links/5509",
+          "bbox": [
+            72.02400207519531,
+            568.5279541015625,
+            536.4199829101562,
+            581.8119506835938
+          ],
+          "page_number": 11,
+          "sequence_id": 188
+        },
+        {
+          "type": "paragraph",
+          "text": "7a910cf26ff55f85932b.pdf#page=14",
+          "bbox": [
+            72.02400207519531,
+            596.1279907226562,
+            252.1699981689453,
+            609.4119873046875
+          ],
+          "page_number": 11,
+          "sequence_id": 189
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "rotation": 0,
+      "width": 612.0,
+      "height": 792.0,
+      "text": " \n \nARTIFICIAL INTELLIGENCE  \n \n 12 \n \n \nSmith, C., McGuire, B., Huang, T., & Yang, G. (2006, December). History of Artificial \nIntelligent [Scholarly project]. Retrieved November 20, 2017, from \nhttps://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf  \nYao, M. (2017, August 19). Factories Of The Future Need AI To Survive And Compete. \nRetrieved November 23, 2017, from \nhttps://www.forbes.com/sites/mariyayao/2017/08/08/industrial-ai-factories-of-\nfuture/#30b20565128e \n \n",
+      "images": [
+        {
+          "xref": 89,
+          "width": 1887,
+          "height": 395,
+          "color_space": 3,
+          "image_format": "jpeg",
+          "size_bytes": 46421
+        }
+      ],
+      "links": [],
+      "annotations": [],
+      "reading_order": [
+        {
+          "type": "image",
+          "xref": 0,
+          "bbox": [
+            9.699999736767495e-08,
+            0.0,
+            610.760009765625,
+            108.0
+          ],
+          "page_number": 12,
+          "sequence_id": 190,
+          "after_sequence_id": null
+        },
+        {
+          "type": "paragraph",
+          "text": "ARTIFICIAL INTELLIGENCE      12",
+          "bbox": [
+            72.02400207519531,
+            72.36799621582031,
+            543.0999755859375,
+            98.90001678466797
+          ],
+          "page_number": 12,
+          "sequence_id": 191
+        },
+        {
+          "type": "paragraph",
+          "text": "Smith, C., McGuire, B., Huang, T., & Yang, G. (2006, December).  History of Artificial",
+          "bbox": [
+            72.02400207519531,
+            108.72798156738281,
+            494.3979797363281,
+            135.8119659423828
+          ],
+          "page_number": 12,
+          "sequence_id": 192
+        },
+        {
+          "type": "paragraph",
+          "text": "Intelligent  [Scholarly project]. Retrieved November 20, 2017, from",
+          "bbox": [
+            72.02400207519531,
+            150.1280059814453,
+            398.22198486328125,
+            163.41200256347656
+          ],
+          "page_number": 12,
+          "sequence_id": 193
+        },
+        {
+          "type": "paragraph",
+          "text": "https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf",
+          "bbox": [
+            72.02400207519531,
+            177.7279815673828,
+            457.2699890136719,
+            191.01197814941406
+          ],
+          "page_number": 12,
+          "sequence_id": 194
+        },
+        {
+          "type": "paragraph",
+          "text": "Yao, M. (2017, August 19). Factories Of The Future Need AI To Survive And Compete.",
+          "bbox": [
+            72.02400207519531,
+            213.27796936035156,
+            500.53204345703125,
+            226.5619659423828
+          ],
+          "page_number": 12,
+          "sequence_id": 195
+        },
+        {
+          "type": "paragraph",
+          "text": "Retrieved November 23, 2017, from",
+          "bbox": [
+            72.02400207519531,
+            240.8780059814453,
+            249.6000213623047,
+            254.16200256347656
+          ],
+          "page_number": 12,
+          "sequence_id": 196
+        },
+        {
+          "type": "paragraph",
+          "text": "https://www.forbes.com/sites/mariyayao/2017/08/08/industrial-ai-factories-of-",
+          "bbox": [
+            72.02400207519531,
+            268.4779968261719,
+            449.2659912109375,
+            281.7619934082031
+          ],
+          "page_number": 12,
+          "sequence_id": 197
+        },
+        {
+          "type": "paragraph",
+          "text": "future/#30b20565128e",
+          "bbox": [
+            72.02400207519531,
+            296.0780029296875,
+            184.33999633789062,
+            309.36199951171875
+          ],
+          "page_number": 12,
+          "sequence_id": 198
+        }
+      ]
+    }
+  ]
+}
