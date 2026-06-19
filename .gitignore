@@ -27,3 +27,9 @@ vector_db/
 
 # Logs
 *.log
+
+# Vector DBs
+# ChromaDB
+chromadb/
+chroma_db/
+vector_db/
